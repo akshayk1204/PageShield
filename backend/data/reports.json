@@ -1,0 +1,2766 @@
+{
+  "73248dfd-80c3-4900-be55-978bd90a191d": {
+    "url": "letsdemo.co"
+  },
+  "02d5bf5f-fda1-4f6c-8be7-7feb05e876a1": {
+    "url": "letsdemo.co"
+  },
+  "abf41e43-18c1-4464-a78c-edc1dd8a7303": {
+    "url": "letsdemo.co"
+  },
+  "32c6b0fd-c009-47f0-953c-33978730fe9e": {
+    "url": "meta.com"
+  },
+  "b97db83f-e348-4bac-93d1-0190a9badfac": {
+    "success": true,
+    "url": "https://greenhabitus.com",
+    "scripts": [
+      "https://greenhabitus.com/_next/static/chunks/4bd1b696-6c1b85d09f07dc4e.js",
+      "https://greenhabitus.com/_next/static/chunks/684-2c9be85648884d09.js",
+      "https://greenhabitus.com/_next/static/chunks/main-app-5d6c5ee0bd6e40e1.js",
+      "https://greenhabitus.com/_next/static/chunks/874-9656b2a8d735a6e7.js",
+      "https://greenhabitus.com/_next/static/chunks/63-64f4ac9687551df6.js",
+      "https://greenhabitus.com/_next/static/chunks/963-1a7bec7455d5ff24.js",
+      "https://greenhabitus.com/_next/static/chunks/213-07430cb5826cfd50.js",
+      "https://greenhabitus.com/_next/static/chunks/app/(site)/layout-5b96f8c07b2d9a6a.js",
+      "https://greenhabitus.com/_next/static/chunks/376-5bde30f9318824b7.js",
+      "https://greenhabitus.com/_next/static/chunks/app/(site)/page-91b72ab8c2e0aae0.js",
+      "https://greenhabitus.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "https://greenhabitus.com/_next/static/chunks/webpack-2759c4249348544c.js",
+      "[inline]"
+    ],
+    "requestedDomains": [
+      "greenhabitus.com",
+      "report.edgecast.io"
+    ],
+    "csp": "Not set"
+  },
+  "27462c90-14bb-4322-ab93-1d6e183f0764": {
+    "success": true,
+    "url": "https://walmart.com",
+    "scripts": [
+      "[inline]",
+      "https://www.walmart.com/px/PXu6b0qd2S/captcha/captcha.js?a=c&m=0&u=ca5621ef-3c39-11f0-88d8-5d8262cfd9b9&v=&g=b",
+      "https://www.walmart.com/px/PXu6b0qd2S/init.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_item-queue_banner_queue-banner-126f0df4d32bfc0f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_event-timer_queue-timer.ade027effd6353b9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/node_modules_.pnpm_react-device-detect@2.2.3_react-dom@18.2.0_react@18.2.0__react@18.2_node_modules_react-device-detect_dist_lib-60e00642b57001f6.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/search_data-access_transforms_common-query-to-props-a6a5b58355e8bd65.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-should-not-render-2f7ee6bb7478e10f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_sponsored-products-tracking_use-sponsored-product-atc-d499bd82fd5e80b5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_utils_get-viewport-1e276c8dc497b3c7.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_video_video-player-1ad1c9daea628563.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_display-ad-wrapper-2cd376b8a62c9f82.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_ad-routing_hooks_useAdOptions.ee3d64b09c275ad1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-load-ivt.005388b8b40e7e37.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_ad-routing_intl-ad-routing-604abcdb2d501f16.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_data-access_hooks_use-get-ad-query.f95fcc848f9a605d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_adaptive-card_adaptive-card.d7ff8d39bcaf0bea.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_adaptive-card_adaptive-card-wrapper.681200b013c7d805.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_data-access_transforms_OpenRTB-6ef8749d3789302f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_remount-wrapper.139263eb21a7784b.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_third-party-tracking_hooks_use-non-safeframe-3p-tracking.90781796d6d1f2e1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_data-access_queries_utils.769e5c3f9ad85073.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_w-plus-banner.f2ffadaac61f7904.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/webpack-6a39b352d6e0a90f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/framework-7eaac358fc49d140.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/main-2e78ceff18b17ee9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/_app-eb755414bd124d4d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/node_modules_.pnpm_@walmart+use-safeframe@1.3.3_react@18.2_node_modules_@walmart_use-safeframe_lib_index-73427fbba35ea0df.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_horizontal-scroller_horizontal-scroller-deaf5eb13013643e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_provider_utils_ad-util-67746ac375da1c3f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/payments_context_hooks_use-purchase-contract-2d084c4bbe920b7d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_quantity-stepper_quantity-stepper-f2c0e259937219d1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_locale_messages-e3f9c872b4bd22e7.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_intl-fees-dialog_intl-fees-dialog-915b54caf7d37015.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_pos_fees-314371c20d34433e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_page-view-checkout-beacon_page-view-beacon-4159f481ed511a50.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_add-to-cart_add-to-cart-90f13e3c4f2d1ba4.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/vision-center_lens-selection_helpers_utils-ad2f02e766984f50.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-reward-46b4ba32c53a5dd1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_hooks_use-on-product-616c2699f33a4344.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-badge_product-badge-6f1ce7057453f616.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_review_constants-074a461008bf6987.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical-ff5807c14f9308b9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-promo-discount-f70e814342a3763b.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-is-tracking-enabled-f37b48485e04433f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/platform_tempo_components_tempo-layout-681c3e309cd59e49.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-image-4d0ae80f466dbf62.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-flag-383e689ab39bd9ef.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_provider_ads-context-provider-fc7cb7f4cfdd8605.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-carousel_product-carousel-cd799525652bd7e0.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_ui_video_video-player-a76a5171c6637f2e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/identity-next_ui_sign-in-button-0df051e0461b1a52.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_ads-error-boundary-18fab8c760bdab04.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/home_data-access_utils-7a5359c06acde047.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/repurchase_data-access_repurchase-cloud-variables-4ce94e12574ebef7.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/item_shared_locale_messages-c042e3e4249751ec.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/index-a8b058180730d561.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/production_20250527T021037213Z-en-US/_buildManifest.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/production_20250527T021037213Z-en-US/_ssgManifest.js",
+      "https://b.www.walmart.com/rum.js?bh=beacon.lightest.walmart.com",
+      "https://b.wal.co/rum-mappings.js;w6GHS5O1ALfk93enva6FlKGzq70=?bh=beacon.lightest.walmart.com",
+      "https://client.px-cloud.net/PXu6b0qd2S/main.min.js",
+      "https://www.walmart.com/si/snr.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_text-area_text-area-5f3f648fba309c49.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_horizontal_product-price-6ee0aed4da7d285c.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_navigational-modal_navigational-modal-d7830e14836319ce.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/marketplace_product-seller-info_product-seller-info-2b9c6a21868b5991.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_bookslot-fulfillment-details_utils-244b1cac01912bda.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_atc-error-modal_locale_messages-24d3b9f2b3888d26.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_cxo-cart-shared_locale_messages-5f0ee1194a2046fb.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_product-tile-container_locale_messages-5bd39e850016e7d5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_data-access_hooks_cca-0081d13b85138a84.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_common-components_error-text-with-tooltip-4063b7597fdf96aa.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_add-on-services_locale_messages-58bdcfc680d51584.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_bookslot-shared_hooks_use-get-slots-query-data-d76f533a1fa39915.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_collapsed-item-list_collapsed-item-list-760f58c857595063.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_bookslot-shortcut_locale_messages-ef2cd1d454d9f151.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_multiple-offer-dialog_multiple-offer-dialog-9ad5d8594f49f742.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/amends_data-access_hooks_use-amendable-order-query-583ee99b83247a2b.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/marketplace_special-instructions_item-special-instructions-20f0b5f0349ce65e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_product-tile-container_cart-product-tile-033d6283742a7aae.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-intersection-observable-4021b25576d8f9bc.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/amends_data-access_hooks_use-is-amendable-50841a7f6cb47edf.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-is-sp-tracking-enable-cd8bda09a45ccb7e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_index-page_cart-index-page-06e178464d462996.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_ads-error-boundary-3887a086b6062269.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/cart-4649f4c20d2ab758.js"
+    ],
+    "requestedDomains": [
+      "walmart.com",
+      "www.walmart.com",
+      "i5.walmartimages.com",
+      "tzm.px-cloud.net",
+      "collector-pxu6b0qd2s.px-cloud.net",
+      "b.www.walmart.com",
+      "tpc.googlesyndication.com",
+      "b.wal.co",
+      "tap.walmart.com",
+      "",
+      "gum.criteo.com",
+      "ib.adnxs.com",
+      "www.facebook.com",
+      "c.bing.com",
+      "sslwidget.criteo.com",
+      "ct.pinterest.com",
+      "ad.doubleclick.net",
+      "sp.analytics.yahoo.com",
+      "trk.clinch.co",
+      "fid.agkn.com",
+      "www.googleadservices.com",
+      "insight.adsrvr.org",
+      "client.px-cloud.net",
+      "googleads.g.doubleclick.net",
+      "adservice.google.com",
+      "www.google.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "collector-pxu6b0qd2s.px-client.net"
+    ],
+    "csp": "frame-ancestors 'self' *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com; report-uri https://csp.walmart.com/c/r/gl",
+    "jsLibraries": []
+  },
+  "e4b23f72-f2a0-4bd8-b57c-3455c71fd254": {
+    "success": true,
+    "url": "https://greenhabitus.com",
+    "scripts": [
+      "https://greenhabitus.com/_next/static/chunks/4bd1b696-6c1b85d09f07dc4e.js",
+      "https://greenhabitus.com/_next/static/chunks/684-2c9be85648884d09.js",
+      "https://greenhabitus.com/_next/static/chunks/main-app-5d6c5ee0bd6e40e1.js",
+      "https://greenhabitus.com/_next/static/chunks/874-9656b2a8d735a6e7.js",
+      "https://greenhabitus.com/_next/static/chunks/63-64f4ac9687551df6.js",
+      "https://greenhabitus.com/_next/static/chunks/963-1a7bec7455d5ff24.js",
+      "https://greenhabitus.com/_next/static/chunks/213-07430cb5826cfd50.js",
+      "https://greenhabitus.com/_next/static/chunks/app/(site)/layout-5b96f8c07b2d9a6a.js",
+      "https://greenhabitus.com/_next/static/chunks/376-5bde30f9318824b7.js",
+      "https://greenhabitus.com/_next/static/chunks/app/(site)/page-91b72ab8c2e0aae0.js",
+      "https://greenhabitus.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "https://greenhabitus.com/_next/static/chunks/webpack-2759c4249348544c.js",
+      "[inline]"
+    ],
+    "requestedDomains": [
+      "greenhabitus.com",
+      "report.edgecast.io"
+    ],
+    "csp": "Not set",
+    "jsLibraries": []
+  },
+  "b8adb452-0266-43ef-809f-b84655de9837": {
+    "success": true,
+    "url": "https://macys.com",
+    "scripts": [],
+    "requestedDomains": [
+      "macys.com",
+      "www.macys.com"
+    ],
+    "csp": "upgrade-insecure-requests;",
+    "jsLibraries": []
+  },
+  "3826c3b5-9b59-4a83-94dd-014157e05bcd": {
+    "success": true,
+    "url": "https://walmart.com",
+    "scripts": [
+      "[inline]",
+      "https://www.walmart.com/px/PXu6b0qd2S/captcha/captcha.js?a=c&m=0&u=b9298b09-3c41-11f0-b647-64fe382ddf65&v=&g=b",
+      "https://www.walmart.com/px/PXu6b0qd2S/init.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_item-queue_banner_queue-banner-126f0df4d32bfc0f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_event-timer_queue-timer.ade027effd6353b9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/node_modules_.pnpm_react-device-detect@2.2.3_react-dom@18.2.0_react@18.2.0__react@18.2_node_modules_react-device-detect_dist_lib-60e00642b57001f6.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/search_data-access_transforms_common-query-to-props-a6a5b58355e8bd65.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-should-not-render-2f7ee6bb7478e10f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_sponsored-products-tracking_use-sponsored-product-atc-d499bd82fd5e80b5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_utils_get-viewport-1e276c8dc497b3c7.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_video_video-player-1ad1c9daea628563.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_display-ad-wrapper-2cd376b8a62c9f82.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_ad-routing_hooks_useAdOptions.ee3d64b09c275ad1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-load-ivt.005388b8b40e7e37.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_ad-routing_intl-ad-routing-604abcdb2d501f16.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_data-access_hooks_use-get-ad-query.f95fcc848f9a605d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_adaptive-card_adaptive-card.d7ff8d39bcaf0bea.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_adaptive-card_adaptive-card-wrapper.681200b013c7d805.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_data-access_transforms_OpenRTB-6ef8749d3789302f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_remount-wrapper.139263eb21a7784b.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_third-party-tracking_hooks_use-non-safeframe-3p-tracking.90781796d6d1f2e1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_data-access_queries_utils.769e5c3f9ad85073.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_w-plus-banner.f2ffadaac61f7904.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/webpack-6a39b352d6e0a90f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/framework-7eaac358fc49d140.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/main-2e78ceff18b17ee9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/_app-eb755414bd124d4d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/node_modules_.pnpm_@walmart+use-safeframe@1.3.3_react@18.2_node_modules_@walmart_use-safeframe_lib_index-73427fbba35ea0df.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_horizontal-scroller_horizontal-scroller-deaf5eb13013643e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_provider_utils_ad-util-67746ac375da1c3f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/payments_context_hooks_use-purchase-contract-2d084c4bbe920b7d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_quantity-stepper_quantity-stepper-f2c0e259937219d1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_locale_messages-e3f9c872b4bd22e7.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_intl-fees-dialog_intl-fees-dialog-915b54caf7d37015.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_pos_fees-314371c20d34433e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_page-view-checkout-beacon_page-view-beacon-4159f481ed511a50.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_add-to-cart_add-to-cart-90f13e3c4f2d1ba4.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/vision-center_lens-selection_helpers_utils-ad2f02e766984f50.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-reward-46b4ba32c53a5dd1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_hooks_use-on-product-616c2699f33a4344.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-badge_product-badge-6f1ce7057453f616.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_review_constants-074a461008bf6987.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical-ff5807c14f9308b9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-promo-discount-f70e814342a3763b.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-is-tracking-enabled-f37b48485e04433f.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/platform_tempo_components_tempo-layout-681c3e309cd59e49.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-image-4d0ae80f466dbf62.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-flag-383e689ab39bd9ef.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_provider_ads-context-provider-fc7cb7f4cfdd8605.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-carousel_product-carousel-cd799525652bd7e0.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_ui_video_video-player-a76a5171c6637f2e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/identity-next_ui_sign-in-button-0df051e0461b1a52.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_ads-error-boundary-18fab8c760bdab04.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/home_data-access_utils-7a5359c06acde047.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/repurchase_data-access_repurchase-cloud-variables-4ce94e12574ebef7.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/item_shared_locale_messages-c042e3e4249751ec.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/index-a8b058180730d561.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/production_20250527T021037213Z-en-US/_buildManifest.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/production_20250527T021037213Z-en-US/_ssgManifest.js",
+      "https://b.www.walmart.com/rum.js?bh=beacon.lightest.walmart.com",
+      "https://b.wal.co/rum-mappings.js;w6GHS5O1ALfk93enva6FlKGzq70=?bh=beacon.lightest.walmart.com",
+      "https://client.px-cloud.net/PXu6b0qd2S/main.min.js",
+      "https://www.walmart.com/si/snr.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_text-area_text-area-5f3f648fba309c49.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_horizontal_product-price-6ee0aed4da7d285c.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_navigational-modal_navigational-modal-d7830e14836319ce.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/marketplace_product-seller-info_product-seller-info-2b9c6a21868b5991.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_bookslot-fulfillment-details_utils-244b1cac01912bda.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_atc-error-modal_locale_messages-24d3b9f2b3888d26.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_cxo-cart-shared_locale_messages-5f0ee1194a2046fb.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_product-tile-container_locale_messages-5bd39e850016e7d5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_data-access_hooks_cca-0081d13b85138a84.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_common-components_error-text-with-tooltip-4063b7597fdf96aa.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_add-on-services_locale_messages-58bdcfc680d51584.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_bookslot-shared_hooks_use-get-slots-query-data-d76f533a1fa39915.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_collapsed-item-list_collapsed-item-list-760f58c857595063.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_bookslot-shortcut_locale_messages-ef2cd1d454d9f151.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_multiple-offer-dialog_multiple-offer-dialog-9ad5d8594f49f742.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/amends_data-access_hooks_use-amendable-order-query-583ee99b83247a2b.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/marketplace_special-instructions_item-special-instructions-20f0b5f0349ce65e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_product-tile-container_cart-product-tile-033d6283742a7aae.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-intersection-observable-4021b25576d8f9bc.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/amends_data-access_hooks_use-is-amendable-50841a7f6cb47edf.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-is-sp-tracking-enable-cd8bda09a45ccb7e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_index-page_cart-index-page-06e178464d462996.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_ads-error-boundary-3887a086b6062269.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/cart-4649f4c20d2ab758.js"
+    ],
+    "requestedDomains": [
+      "walmart.com",
+      "www.walmart.com",
+      "i5.walmartimages.com",
+      "tzm.px-cloud.net",
+      "collector-pxu6b0qd2s.px-cloud.net",
+      "b.www.walmart.com",
+      "tpc.googlesyndication.com",
+      "b.wal.co",
+      "",
+      "tap.walmart.com",
+      "gum.criteo.com",
+      "ib.adnxs.com",
+      "www.facebook.com",
+      "c.bing.com",
+      "sslwidget.criteo.com",
+      "ct.pinterest.com",
+      "ad.doubleclick.net",
+      "sp.analytics.yahoo.com",
+      "trk.clinch.co",
+      "fid.agkn.com",
+      "www.googleadservices.com",
+      "insight.adsrvr.org",
+      "googleads.g.doubleclick.net",
+      "adservice.google.com",
+      "www.google.com",
+      "client.px-cloud.net",
+      "collector-pxu6b0qd2s.px-client.net",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com"
+    ],
+    "csp": "frame-ancestors 'self' *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com; report-uri https://csp.walmart.com/c/r/gl",
+    "jsLibraries": []
+  },
+  "8405889a-6869-40c7-9eb8-450f0d983634": {
+    "success": true,
+    "url": "https://greenhabitus.com",
+    "scripts": [
+      "https://greenhabitus.com/_next/static/chunks/4bd1b696-6c1b85d09f07dc4e.js",
+      "https://greenhabitus.com/_next/static/chunks/684-2c9be85648884d09.js",
+      "https://greenhabitus.com/_next/static/chunks/main-app-5d6c5ee0bd6e40e1.js",
+      "https://greenhabitus.com/_next/static/chunks/874-9656b2a8d735a6e7.js",
+      "https://greenhabitus.com/_next/static/chunks/63-64f4ac9687551df6.js",
+      "https://greenhabitus.com/_next/static/chunks/963-1a7bec7455d5ff24.js",
+      "https://greenhabitus.com/_next/static/chunks/213-07430cb5826cfd50.js",
+      "https://greenhabitus.com/_next/static/chunks/app/(site)/layout-5b96f8c07b2d9a6a.js",
+      "https://greenhabitus.com/_next/static/chunks/376-5bde30f9318824b7.js",
+      "https://greenhabitus.com/_next/static/chunks/app/(site)/page-91b72ab8c2e0aae0.js",
+      "https://greenhabitus.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "https://greenhabitus.com/_next/static/chunks/webpack-2759c4249348544c.js",
+      "[inline]"
+    ],
+    "requestedDomains": [
+      "greenhabitus.com",
+      "report.edgecast.io"
+    ],
+    "csp": "Not set",
+    "jsLibraries": []
+  },
+  "9986ccc1-8570-41c9-9457-a96e8f90c738": {
+    "success": true,
+    "url": "https://letsdemo.co",
+    "jsScanner": {
+      "scripts": [
+        "https://letsdemo.co/js/jquery-1.11.0.min.js",
+        "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js",
+        "https://letsdemo.co/js/plugins.js",
+        "https://letsdemo.co/js/script.js"
+      ],
+      "requestedDomains": [
+        "letsdemo.co",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "report.edgecast.io",
+        ""
+      ],
+      "csp": "default-src 'self'; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://fonts.googleapis.com; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; img-src 'self' data:; font-src 'self' https://cdn.jsdelivr.net https://fonts.gstatic.com; connect-src 'self' https://ecomm-demo.free.beeceptor.com; frame-src 'none'; form-action 'self'; report-uri https://report.edgecast.io/csp/f4378588-0ff2-4da3-a112-e9973f46625e",
+      "trackerDomains": [],
+      "mixedContent": "None detected",
+      "suspiciousPatterns": "None detected",
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://letsdemo.co https://cdn.jsdelivr.net https://fonts.googleapis.com https://report.edgecast.io https://;"
+    },
+    "pyScanner": {
+      "success": true,
+      "scriptSources": [
+        "js/jquery-1.11.0.min.js",
+        "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js",
+        "js/plugins.js",
+        "js/script.js"
+      ],
+      "inlineScriptCount": 0,
+      "metaTags": {
+        "unknown": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1.0",
+        "format-detection": "telephone=no",
+        "apple-mobile-web-app-capable": "yes"
+      }
+    }
+  },
+  "4e8c2c1f-f411-4e9c-a32f-46018d2771c8": {
+    "success": true,
+    "url": "https://walmart.com",
+    "summary": {
+      "mixedContent": "Mixed content found",
+      "suspiciousScripts": "Suspicious scripts present"
+    },
+    "jsScanner": {
+      "scripts": [
+        "[inline]",
+        "https://www.walmart.com/px/PXu6b0qd2S/captcha/captcha.js?a=c&m=0&u=460c9b7a-3cc5-11f0-896c-32b11af84988&v=&g=b",
+        "https://www.walmart.com/px/PXu6b0qd2S/init.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_item-queue_banner_queue-banner-126f0df4d32bfc0f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_event-timer_queue-timer.ade027effd6353b9.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/node_modules_.pnpm_react-device-detect@2.2.3_react-dom@18.2.0_react@18.2.0__react@18.2_node_modules_react-device-detect_dist_lib-60e00642b57001f6.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/search_data-access_transforms_common-query-to-props-a6a5b58355e8bd65.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-should-not-render-2f7ee6bb7478e10f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_sponsored-products-tracking_use-sponsored-product-atc-d499bd82fd5e80b5.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_utils_get-viewport-1e276c8dc497b3c7.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_video_video-player-1ad1c9daea628563.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_display-ad-wrapper-2cd376b8a62c9f82.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_ad-routing_hooks_useAdOptions.ee3d64b09c275ad1.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-load-ivt.005388b8b40e7e37.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_ad-routing_intl-ad-routing-604abcdb2d501f16.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_data-access_hooks_use-get-ad-query.f95fcc848f9a605d.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_adaptive-card_adaptive-card.d7ff8d39bcaf0bea.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_adaptive-card_adaptive-card-wrapper.681200b013c7d805.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_data-access_transforms_OpenRTB-6ef8749d3789302f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_remount-wrapper.139263eb21a7784b.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_third-party-tracking_hooks_use-non-safeframe-3p-tracking.90781796d6d1f2e1.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_data-access_queries_utils.769e5c3f9ad85073.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_w-plus-banner.f2ffadaac61f7904.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/webpack-6a39b352d6e0a90f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/framework-7eaac358fc49d140.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/main-2e78ceff18b17ee9.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/_app-eb755414bd124d4d.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/node_modules_.pnpm_@walmart+use-safeframe@1.3.3_react@18.2_node_modules_@walmart_use-safeframe_lib_index-73427fbba35ea0df.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_horizontal-scroller_horizontal-scroller-deaf5eb13013643e.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_provider_utils_ad-util-67746ac375da1c3f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/payments_context_hooks_use-purchase-contract-2d084c4bbe920b7d.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_quantity-stepper_quantity-stepper-f2c0e259937219d1.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_locale_messages-e3f9c872b4bd22e7.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_intl-fees-dialog_intl-fees-dialog-915b54caf7d37015.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_pos_fees-314371c20d34433e.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_page-view-checkout-beacon_page-view-beacon-4159f481ed511a50.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_add-to-cart_add-to-cart-90f13e3c4f2d1ba4.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/vision-center_lens-selection_helpers_utils-ad2f02e766984f50.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-reward-46b4ba32c53a5dd1.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_hooks_use-on-product-616c2699f33a4344.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-badge_product-badge-6f1ce7057453f616.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_review_constants-074a461008bf6987.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical-ff5807c14f9308b9.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-promo-discount-f70e814342a3763b.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-is-tracking-enabled-f37b48485e04433f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/platform_tempo_components_tempo-layout-681c3e309cd59e49.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-image-4d0ae80f466dbf62.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-flag-383e689ab39bd9ef.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_provider_ads-context-provider-fc7cb7f4cfdd8605.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-carousel_product-carousel-cd799525652bd7e0.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_ui_video_video-player-a76a5171c6637f2e.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/identity-next_ui_sign-in-button-0df051e0461b1a52.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_ads-error-boundary-18fab8c760bdab04.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/home_data-access_utils-7a5359c06acde047.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/repurchase_data-access_repurchase-cloud-variables-4ce94e12574ebef7.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/item_shared_locale_messages-c042e3e4249751ec.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/index-a8b058180730d561.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/production_20250527T021037213Z-en-US/_buildManifest.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/production_20250527T021037213Z-en-US/_ssgManifest.js",
+        "https://b.www.walmart.com/rum.js?bh=beacon.lightest.walmart.com",
+        "https://b.wal.co/rum-mappings.js;w6GHS5O1ALfk93enva6FlKGzq70=?bh=beacon.lightest.walmart.com",
+        "https://client.px-cloud.net/PXu6b0qd2S/main.min.js",
+        "https://www.walmart.com/si/snr.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_text-area_text-area-5f3f648fba309c49.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_horizontal_product-price-6ee0aed4da7d285c.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_navigational-modal_navigational-modal-d7830e14836319ce.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/marketplace_product-seller-info_product-seller-info-2b9c6a21868b5991.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_bookslot-fulfillment-details_utils-244b1cac01912bda.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_atc-error-modal_locale_messages-24d3b9f2b3888d26.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_cxo-cart-shared_locale_messages-5f0ee1194a2046fb.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_product-tile-container_locale_messages-5bd39e850016e7d5.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_data-access_hooks_cca-0081d13b85138a84.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_common-components_error-text-with-tooltip-4063b7597fdf96aa.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_add-on-services_locale_messages-58bdcfc680d51584.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/checkout_bookslot-shared_hooks_use-get-slots-query-data-d76f533a1fa39915.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_collapsed-item-list_collapsed-item-list-760f58c857595063.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_multiple-offer-dialog_multiple-offer-dialog-9ad5d8594f49f742.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/amends_data-access_hooks_use-amendable-order-query-583ee99b83247a2b.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/marketplace_special-instructions_item-special-instructions-20f0b5f0349ce65e.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_product-tile-container_cart-product-tile-033d6283742a7aae.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-intersection-observable-4021b25576d8f9bc.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/amends_data-access_hooks_use-is-amendable-50841a7f6cb47edf.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-is-sp-tracking-enable-cd8bda09a45ccb7e.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_index-page_cart-index-page-06e178464d462996.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_ads-error-boundary-3887a086b6062269.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/cart-4649f4c20d2ab758.js"
+      ],
+      "requestedDomains": [
+        "walmart.com",
+        "www.walmart.com",
+        "i5.walmartimages.com",
+        "tzm.px-cloud.net",
+        "collector-pxu6b0qd2s.px-cloud.net",
+        "b.www.walmart.com",
+        "tpc.googlesyndication.com",
+        "b.wal.co",
+        "tap.walmart.com",
+        "gum.criteo.com",
+        "",
+        "ib.adnxs.com",
+        "www.facebook.com",
+        "c.bing.com",
+        "sslwidget.criteo.com",
+        "ct.pinterest.com",
+        "ad.doubleclick.net",
+        "sp.analytics.yahoo.com",
+        "trk.clinch.co",
+        "fid.agkn.com",
+        "www.googleadservices.com",
+        "insight.adsrvr.org",
+        "client.px-cloud.net",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com",
+        "www.google.com",
+        "collector-pxu6b0qd2s.px-client.net",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "csp": "frame-ancestors 'self' *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com; report-uri https://csp.walmart.com/c/r/gl",
+      "trackerDomains": [
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ],
+      "mixedContent": [
+        "http://msds.walmartstores.com/"
+      ],
+      "suspiciousPatterns": [
+        "/setTimeout\\s*\\(\\s*[\"'`]?\\w+\\s*[,)]/"
+      ],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://walmart.com https://www.walmart.com https://i5.walmartimages.com https://tzm.px-cloud.net https://collector-pxu6b0qd2s.px-cloud.net https://b.www.walmart.com https://tpc.googlesyndication.com https://b.wal.co https://tap.walmart.com https://gum.criteo.com https:// https://ib.adnxs.com https://www.facebook.com https://c.bing.com https://sslwidget.criteo.com https://ct.pinterest.com https://ad.doubleclick.net https://sp.analytics.yahoo.com https://trk.clinch.co https://fid.agkn.com https://www.googleadservices.com https://insight.adsrvr.org https://client.px-cloud.net https://googleads.g.doubleclick.net https://adservice.google.com https://www.google.com https://collector-pxu6b0qd2s.px-client.net https://fonts.googleapis.com https://fonts.gstatic.com 'unsafe-inline';"
+    },
+    "pyScanner": {
+      "success": true,
+      "scriptSources": [
+        "//i5.walmartimages.com/beacon/beacon.js?bd=b.www.walmart.com&bh=beacon.lightest.walmart.com",
+        "/px/PXu6b0qd2S/init.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_item-queue_banner_queue-banner-126f0df4d32bfc0f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_event-timer_queue-timer.ade027effd6353b9.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/node_modules_.pnpm_react-device-detect@2.2.3_react-dom@18.2.0_react@18.2.0__react@18.2_node_modules_react-device-detect_dist_lib-60e00642b57001f6.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/search_data-access_transforms_common-query-to-props-a6a5b58355e8bd65.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-should-not-render-2f7ee6bb7478e10f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_sponsored-products-tracking_use-sponsored-product-atc-d499bd82fd5e80b5.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_utils_get-viewport-1e276c8dc497b3c7.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_video_video-player-1ad1c9daea628563.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_display-ad-wrapper-2cd376b8a62c9f82.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_ad-routing_hooks_useAdOptions.ee3d64b09c275ad1.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-load-ivt.005388b8b40e7e37.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_ad-routing_intl-ad-routing-604abcdb2d501f16.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_data-access_hooks_use-get-ad-query.f95fcc848f9a605d.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_adaptive-card_adaptive-card.d7ff8d39bcaf0bea.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_adaptive-card_adaptive-card-wrapper.681200b013c7d805.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_data-access_transforms_OpenRTB-6ef8749d3789302f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_remount-wrapper.139263eb21a7784b.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_third-party-tracking_hooks_use-non-safeframe-3p-tracking.90781796d6d1f2e1.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/intl-ads_data-access_queries_utils.769e5c3f9ad85073.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/tempo-shared-modules_w-plus-banner.f2ffadaac61f7904.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/webpack-6a39b352d6e0a90f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/framework-7eaac358fc49d140.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/main-2e78ceff18b17ee9.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/_app-eb755414bd124d4d.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/node_modules_.pnpm_@walmart+use-safeframe@1.3.3_react@18.2_node_modules_@walmart_use-safeframe_lib_index-73427fbba35ea0df.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_horizontal-scroller_horizontal-scroller-deaf5eb13013643e.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_provider_utils_ad-util-67746ac375da1c3f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/payments_context_hooks_use-purchase-contract-2d084c4bbe920b7d.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_quantity-stepper_quantity-stepper-f2c0e259937219d1.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_locale_messages-e3f9c872b4bd22e7.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_intl-fees-dialog_intl-fees-dialog-915b54caf7d37015.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_pos_fees-314371c20d34433e.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_page-view-checkout-beacon_page-view-beacon-4159f481ed511a50.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/cart_add-to-cart_add-to-cart-90f13e3c4f2d1ba4.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/vision-center_lens-selection_helpers_utils-ad2f02e766984f50.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-reward-46b4ba32c53a5dd1.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_hooks_use-on-product-616c2699f33a4344.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-badge_product-badge-6f1ce7057453f616.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_review_constants-074a461008bf6987.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical-ff5807c14f9308b9.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-promo-discount-f70e814342a3763b.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_hooks_use-is-tracking-enabled-f37b48485e04433f.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/platform_tempo_components_tempo-layout-681c3e309cd59e49.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-image-4d0ae80f466dbf62.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-tile_vertical_product-flag-383e689ab39bd9ef.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_provider_ads-context-provider-fc7cb7f4cfdd8605.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ui_product-carousel_product-carousel-cd799525652bd7e0.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_ui_video_video-player-a76a5171c6637f2e.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/identity-next_ui_sign-in-button-0df051e0461b1a52.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/ads_core_components_ads-error-boundary-18fab8c760bdab04.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/home_data-access_utils-7a5359c06acde047.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/repurchase_data-access_repurchase-cloud-variables-4ce94e12574ebef7.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/item_shared_locale_messages-c042e3e4249751ec.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/chunks/pages/index-a8b058180730d561.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/production_20250527T021037213Z-en-US/_buildManifest.js",
+        "https://i5.walmartimages.com/dfw/63fd9f59-13b3/a5d24088-d4b2-4df8-ad47-858f5973a887/v2/en-US/_next/static/production_20250527T021037213Z-en-US/_ssgManifest.js"
+      ],
+      "inlineScriptCount": 8,
+      "metaTags": {
+        "fb:app_id": "105223049547814",
+        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1, interactive-widget=resizes-content",
+        "description": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum. Start your free 30-day trial now!",
+        "keywords": "Walmart,Walmart.com,Online Shopping,Gifts,Toys,Home,Jewelry,TVs,HD TVs,Smart TVs,Electronics,Baby Products,Video Games,Computers,Laptops,Cell Phones,Games,Apparel,Clothing,Fashion,Accessories,Shoes,Watches,Sports & Outdoors, Sporting Goods,Office Products,Health,Vitamins,Personal Care,Beauty Products,Garden,Bed,Bath,Furniture,Tools,Hardware, Vacuums,Outdoor Living,Automotive Parts,Pet Food,Pet Supplies,iphone",
+        "robots": "INDEX,FOLLOW",
+        "og:url": "https://www.walmart.com/",
+        "og:description": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum. Start your free 30-day trial now!",
+        "og:title": "Walmart | Save Money. Live better.",
+        "og:type": "Website",
+        "image": "https://i5.walmartimages.com/dfw/63fd9f59-49ff/k2-_52fee322-2e60-452a-bccc-1e847f452a13.v1.png",
+        "og:site_name": "Walmart.com",
+        "next-head-count": "36",
+        "unknown": "child-src 'self' blob:; connect-src 'self' *.1worldsync.com *.accenture.com *.akamaihd.net *.babylist.com *.buywith.com *.cloudinary.com *.cnetcontent.com *.digital-cloud.medallia.com *.doubleclick.net *.flix360.com *.flix360.io *.kampyle.co *.kampyle.com *.ksckreate.net *.perimeterx.net *.purpleportal.net *.px-cdn.net *.px-cloud.net *.pxchk.net *.quantummetric.com *.richcontext.com *.salsify.com *.sspinc.io *.stylitics.com *.syndigo.cloud *.syndigo.com *.talkshop.live *.thestable.com *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com *.zeekit.www.walmart.com ads01.groovinads.com api.bazaarvoice.com api.inhome.walmart.com aroptical-scan.wal-mart.com assets-jpcust.jwpsrv.com assets.optiwise.ai azmatch.adsrvr.org b.affil.walmart.com b.affiliates.walmart.com b.identity.walmart.com b.native-checkout.prod.affiliates.walmart.com b.photos3.walmart.com b.www.walmart.com beacon.walmart.com blob: bp.www.walmart.com c.bing.com cdn-assets.affirm.com cdn.jwplayer.com content.etilize.com content.jwplatform.com directline.botframework.com dw.wmt.co gum.criteo.com i.liadm.com i6.liadm.com ib.adnxs.com idsync.rlcdn.com ls.chatid.com maps.googleapis.com maps.gstatic.com media.flixcar.com media.flixfacts.com media.sku.ninja mmwm-scan-prod.centralus.cloudapp.azure.com photorankstatics-a.akamaihd.net rackcdn.com secure.adnxs.com ssl.p.jwpcdn.com stats.g.doubleclick.net sync.mathtag.com t.myvisualiq.net tap.walmart.com tps.doubleverify.com us.creativecdn.com videos-cloudfront.jwpsrv.com wss://api.talkshop.live wss://directline.botframework.com wss://us.server.buywith.com wss://www-perf.walmart.com wss://www.walmart.com www.facebook.com www.google.com www.gstatic.com zeekit.www.walmart.com; default-src 'self' 'unsafe-eval' 'unsafe-inline' *.quantummetric.com *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com; font-src 'self' *.1worldsync.com *.accenture.com *.buywith.com *.cloudfront.net *.cloudinary.com *.cnetcontent.com *.flix360.com *.flix360.io *.ksckreate.net *.richcontext.com *.salsify.com *.syndigo.cloud *.syndigo.com *.thestable.com *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com assets-jpcust.jwpsrv.com assets.optiwise.ai cc.cs.1worldsync.com ccsprodus1.blob.core.windows.net cdn.cs.1worldsync.com cdn.jwplayer.com content.etilize.com content.jwplatform.com d3nkfb7815bs43.cloudfront.net d3np41mctoibfu.cloudfront.net fonts.googleapis.com fonts.gstatic.com ls.chatid.com media.flixcar.com media.flixfacts.com media.sku.ninja photorankstatics-a.akamaihd.net rackcdn.com salsify-ecdn.com ssl.p.jwpcdn.com videos-cloudfront.jwpsrv.com ws.cnetcontent.com www.ezdia.com; frame-src 'self' *.1worldsync.com *.accenture.com *.affirm.com *.alldata.cashedge.com *.babylist.com *.buywith.com *.cloudinary.com *.cnetcontent.com *.countr.one *.digital-cloud.medallia.com *.eko.com *.fiservapps.com *.flix360.com *.flix360.io *.kampyle.co *.kampyle.com *.ksckreate.net *.one.app *.onefinance.com *.onepay.com *.online-metrix.net *.quantummetric.com *.richcontext.com *.salsify.com *.shopstylecollective.com *.syndigo.cloud *.syndigo.com *.talkshop.live *.thestable.com *.vantivcnp.com *.vimeo.com *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com adclick.g.doubleclick.net app.collectivevoice.com assets-jpcust.jwpsrv.com assets.optiwise.ai ccsprodus1.blob.core.windows.net cdn.jwplayer.com content.etilize.com content.jwplatform.com ln-rules.rewardstyle.com ls.chatid.com media.flixcar.com media.flixfacts.com media.sku.ninja mmwmpdscanoprod.z19.web.core.windows.net one-web.app.link one.app.link photorankstatics-a.akamaihd.net pinpad.paysecure.acculynk.net rackcdn.com salsify-ecdn.com ssl.p.jwpcdn.com tpc.googlesyndication.com videos-cloudfront.jwpsrv.com ws.cnetcontent.com wss://api.talkshop.live www.ezdia.com www.facebook.com www.google.com www.recaptcha.net www.youtube-nocookie.com www.youtube.com youtu.be; img-src 'self' *.1worldsync.com *.accenture.com *.adsafeprotected.com *.akamaihd.net *.buywith.com *.cloudfront.net *.cloudinary.com *.cnetcontent.com *.digital-cloud.medallia.com *.doubleclick.net *.doubleverify.com *.flix360.com *.flix360.io *.geekseller.com *.googleapis.com *.imrworldwide.com *.kampyle.co *.kampyle.com *.ksckreate.net *.online-metrix.net *.paypal.com *.px-cdn.net *.px-cloud.net *.rackcdn.com *.richcontext.com *.salsify.com *.ssl.cf1.rackcdn.com *.stylitics.com *.syndigo.cloud *.syndigo.com *.talkshop.live *.thestable.com *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com *.zeekit.www.walmart.com a.sellpoint.net ad.doubleclick.net ads01.groovinads.com akamai.ksckreate.net aroptical-scan.wal-mart.com assets-jpcust.jwpsrv.com assets.optiwise.ai azmatch.adsrvr.org b.affil.walmart.com b.affiliates.walmart.com b.identity.walmart.com b.native-checkout.prod.affiliates.walmart.com b.photos3.walmart.com b.www.walmart.com beacon.walmart.com blob: bp.www.walmart.com braze-images.com c.bing.com ccsprodus1.blob.core.windows.net cdn-assets.affirm.com cdn.jwplayer.com content.etilize.com content.jwplatform.com content.syndigo.com crtormassetmguseprod.blob.core.windows.net cyborg-wm-auth-service-v2.jet.com d3nkfb7815bs43.cloudfront.net d3np41mctoibfu.cloudfront.net data: dw.wmt.co gum.criteo.com i.liadm.com i6.liadm.com ib.adnxs.com idsync.rlcdn.com img.youtube.com ir.surveywall-api.survata.com ls.chatid.com maps.googleapis.com maps.gstatic.com media.flixcar.com media.flixfacts.com media.sku.ninja mmwm-scan-prod.centralus.cloudapp.azure.com photorankstatics-a.akamaihd.net player.cloudinary.com rackcdn.com res.cloudinary.com s.xlgmedia.com s0.2mdn.net salsify-ecdn.com secure.adnxs.com securepubads.g.doubleclick.net smedia.webcollage.net ssl.p.jwpcdn.com stats.g.doubleclick.net sync.mathtag.com t.myvisualiq.net tap.walmart.com tpc.googlesyndication.com us.creativecdn.com videos-cloudfront.jwpsrv.com walmart.ugc.bazaarvoice.com wss://api.talkshop.live www.ezdia.com www.facebook.com www.gstatic.com; media-src *.1worldsync.com *.accenture.com *.akamaized.net *.buywith.com *.cloudfront.net *.cloudinary.com *.cnetcontent.com *.flix360.com *.flix360.io *.ksckreate.net *.richcontext.com *.salsify.com *.syndigo.cloud *.syndigo.com *.thestable.com *.vimeo.com *.vimeocdn.com *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com 1d81e75c4337a6e2e3c2-4a69748413de5fcbd7a7a944817c2356.ssl.cf1.rackcdn.com a.sellpoint.net advertising.staging.walmart.com akamai.ksckreate.net api.inhome.walmart.com assets-jpcust.jwpsrv.com assets.optiwise.ai blob: ca-media.contentanalyticsinc.com cc.cnetcontent.com cc.cs.1worldsync.com ccsprodus1.blob.core.windows.net cdn-azure.kwikee.com cdn.cnetcontent.com cdn.cs.1worldsync.com cdn.jwplayer.com content.etilize.com content.jwplatform.com content.syndigo.com cyborg-wm-auth-service-v2.jet.com d3nkfb7815bs43.cloudfront.net d3np41mctoibfu.cloudfront.net images.salsify.com ls.chatid.com media.flixcar.com media.flixfacts.com media.sku.ninja photorankstatics-a.akamaihd.net rackcdn.com salsify-ecdn.com ssl.p.jwpcdn.com videos-cloudfront.jwpsrv.com vimeo.com ws.cnetcontent.com www.ezdia.com; object-src *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com; script-src 'self' 'strict-dynamic' 'wasm-unsafe-eval' *.1worldsync.com *.accenture.com *.babylist.com *.buywith.com *.cloudfront.net *.cloudinary.com *.cnetcontent.com *.digital-cloud.medallia.com *.flix360.com *.flix360.io *.kampyle.co *.kampyle.com *.ksckreate.net *.px-cloud.net *.quantummetric.com *.richcontext.com *.salsify.com *.syndigo.cloud *.syndigo.com *.talkshop.live *.thestable.com *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com *.zeekit.www.walmart.com aroptical-scan.wal-mart.com assets-jpcust.jwpsrv.com assets.optiwise.ai b.affil.walmart.com b.affiliates.walmart.com b.identity.walmart.com b.native-checkout.prod.affiliates.walmart.com b.photos3.walmart.com b.www.walmart.com beacon.walmart.com bp.www.walmart.com ccsprodus1.blob.core.windows.net cdn.jwplayer.com connect.facebook.net content.etilize.com content.jwplatform.com d3nkfb7815bs43.cloudfront.net d3np41mctoibfu.cloudfront.net ls.chatid.com maps.googleapis.com media.flixcar.com media.flixfacts.com media.sku.ninja mmwm-scan-prod.centralus.cloudapp.azure.com photorankstatics-a.akamaihd.net rackcdn.com salsify-ecdn.com ssl.p.jwpcdn.com videos-cloudfront.jwpsrv.com ws.cnetcontent.com wss://api.talkshop.live www.ezdia.com www.recaptcha.net 'nonce-i93mxreoLO86ayOm'; style-src 'self' 'unsafe-inline' *.1worldsync.com *.accenture.com *.buywith.com *.cloudfront.net *.cloudinary.com *.cnetcontent.com *.cs.1worldsync.com *.flix360.com *.flix360.io *.kampyle.com *.ksckreate.net *.quantummetric.com *.richcontext.com *.salsify.com *.sspinc.io *.stylitics.com *.syndigo.cloud *.syndigo.com *.thestable.com *.wal.co *.walmart.com:* *.walmart.net *.walmartimages.com assets-jpcust.jwpsrv.com assets.optiwise.ai ccsprodus1.blob.core.windows.net cdn.jwplayer.com content.etilize.com content.jwplatform.com d3nkfb7815bs43.cloudfront.net d3np41mctoibfu.cloudfront.net fonts.googleapis.com ls.chatid.com media.flixcar.com media.flixfacts.com media.sku.ninja photorankstatics-a.akamaihd.net rackcdn.com salsify-ecdn.com ssl.p.jwpcdn.com videos-cloudfront.jwpsrv.com ws.cnetcontent.com www.ezdia.com; worker-src 'self' blob:"
+      }
+    }
+  },
+  "ea63aaca-2a73-45f6-a0d6-196bc3861667": {
+    "success": true,
+    "url": "https://dice.com",
+    "summary": {
+      "mixedContent": "None detected",
+      "suspiciousScripts": "Suspicious scripts present",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://connect.facebook.net/signals/config/412179360593168?v=2.9.203&r=stable&domain=www.dice.com&hme=36c7454c4b078660353e5d4c89e3eaca439a56e5c3ceaadddff6c79ae427835a&ex_m=74%2C128%2C113%2C117%2C65%2C6%2C106%2C73%2C19%2C101%2C93%2C55%2C58%2C183%2C204%2C211%2C207%2C208%2C210%2C32%2C107%2C57%2C81%2C209%2C178%2C181%2C205%2C206%2C191%2C140%2C45%2C196%2C193%2C194%2C37%2C152%2C18%2C54%2C200%2C199%2C142%2C21%2C44%2C2%2C47%2C69%2C70%2C71%2C75%2C97%2C20%2C17%2C100%2C96%2C95%2C114%2C56%2C116%2C42%2C115%2C33%2C98%2C43%2C90%2C29%2C179%2C182%2C149%2C14%2C15%2C16%2C8%2C9%2C28%2C25%2C26%2C61%2C66%2C68%2C79%2C105%2C108%2C30%2C80%2C12%2C10%2C84%2C52%2C24%2C110%2C109%2C111%2C102%2C13%2C23%2C4%2C41%2C78%2C22%2C161%2C136%2C77%2C1%2C99%2C60%2C88%2C36%2C31%2C86%2C87%2C92%2C40%2C7%2C94%2C85%2C48%2C35%2C38%2C0%2C72%2C118%2C91%2C5%2C51%2C50%2C89%2C248%2C176%2C126%2C164%2C157%2C3%2C39%2C67%2C46%2C112%2C49%2C83%2C64%2C63%2C34%2C103%2C62%2C59%2C53%2C82%2C76%2C27%2C104%2C11%2C119",
+        "https://connect.facebook.net/en_US/fbevents.js",
+        "https://www.redditstatic.com/ads/pixel.js",
+        "https://a.quora.com/qevents.js",
+        "https://www.googletagmanager.com/gtag/destination?id=DC-11164823&cx=c&gtm=45He55s2v79074302za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075",
+        "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+        "https://www.googletagmanager.com/gtag/destination?id=AW-761321626&cx=c&gtm=45He55s2v79074302za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075",
+        "https://widget.intercom.io/widget/j3u3i8bb",
+        "https://ws-assets.zoominfo.com/formcomplete.js",
+        "https://www.clarity.ms/tag/uet/17093194",
+        "https://munchkin.marketo.net/164/munchkin.js",
+        "https://j.6sc.co/6si.min.js",
+        "https://www.google-analytics.com/analytics.js",
+        "https://bat.bing.com/bat.js",
+        "https://www.clarity.ms/tag/if7j09wn9z?ref=gtm2",
+        "https://cdn.branch.io/branch-latest.min.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-QEM1ZGKRC2&cx=c&gtm=45He55s2v79074302za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075",
+        "https://cdn.consentmanager.net/delivery/customcmp/e7c754694a55.js",
+        "https://www.clarity.ms/s/0.8.9/clarity.js",
+        "https://www.clarity.ms/tag/hiuhdldji1",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-WLPMJGK",
+        "https://cdn-4.convertexperiments.com/js/10042981-10044140.js",
+        "[inline]",
+        "https://www.dice.com/webfiles/1746129817054/js/dice/ionicon-scrolling-document-list.js",
+        "https://maps.googleapis.com/maps/api/js?v=3.37&libraries=places&key=AIzaSyDOZzW7cyckuHQP9K_xxm-qUSS_E_1AJE0&language=en",
+        "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202505220101/pubads_impl.js?cb=31092652",
+        "https://munchkin.marketo.net/munchkin.js",
+        "https://js.zi-scripts.com/zi-tag.js",
+        "https://cdn.jsdelivr.net/npm/hockeystack@latest/hockeystack.min.js",
+        "https://cdn.jsdelivr.net/npm/hockeystack@latest/hockeystack-6sense.min.js",
+        "https://bat.bing.com/p/action/17093194.js",
+        "https://delivery.consentmanager.net/delivery/cmp.php?id=30394&h=https%3A%2F%2Fwww.dice.com%2F&__cmpfcc=1&l=en&ls=EN_EN&lp=EN&o=1748560796702",
+        "https://cdn.consentmanager.net/delivery/js/cmp_final.min.js?t=2025-5-29",
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/761321626/?random=1748560798184&cv=11&fst=1748560798184&bg=ffffff&guid=ON&async=1&gtm=45be55s2v9181635468z879074302za200zb79074302&gcd=13r3v3r3r5l1&dma=0&tcfd=10v5o&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075&ptag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075&u_w=1728&u_h=1117&url=https%3A%2F%2Fwww.dice.com%2F&hn=www.googleadservices.com&frm=0&tiba=Find%20Jobs%20in%20Tech%20%7C%20Dice.com&did=dMzk4MW&gdid=dMzk4MW&npa=0&gdpr=0&gdpr_consent=CQSLyIgQSLyIgAfGKBENBsFgAAAAAAAAACiQI3pB9G5GSSFFqDp3IboEIAQXwFhpQMAxAACAgsAAgBMAIIQCEEAAJAgAACACABAAIBRAIQBACAAAAACAAIAABACIAAAAAAAAICAAAAAQQEAAAAAIAAAAAAAQAAAEAkAAgBAAABIACAAAAAAAAQAAAAAAAAAAAQABAAAAAAABAAAAQAAAAAAAAAAAAAAAAAAII3wLAAFgAOgAoACoAFwAOAAgABIACoAGQANAAcABHACYAFAAKoAXQA0AB-AEIAI4ATQAnABRgCtAGGAMsAaIA7gB-gEIAIsARwA7YB_wEegJkAUeAtgBcgC8wGLAMnAfEBG8AAA&auid=25805526.1748560798&uaa=arm&uab=64&uafvl=Not.A%252FBrand%3B99.0.0.0%7CChromium%3B136.0.7103.94&uamb=0&uam=&uap=macOS&uapv=15.3.2&uaw=0&fledge=1&_tu=Cg&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=4",
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/761321626/?random=1748560798201&cv=11&fst=1748560798201&bg=ffffff&guid=ON&async=1&gtm=45be55s2v9181635468z879074302za200zb79074302&gcd=13r3v3r3r5l1&dma=0&tcfd=10v5o&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075&ptag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075&u_w=1728&u_h=1117&url=https%3A%2F%2Fwww.dice.com%2F&hn=www.googleadservices.com&frm=0&tiba=Find%20Jobs%20in%20Tech%20%7C%20Dice.com&did=dMzk4MW&gdid=dMzk4MW&npa=0&gdpr=0&gdpr_consent=CQSLyIgQSLyIgAfGKBENBsFgAAAAAAAAACiQI3pB9G5GSSFFqDp3IboEIAQXwFhpQMAxAACAgsAAgBMAIIQCEEAAJAgAACACABAAIBRAIQBACAAAAACAAIAABACIAAAAAAAAICAAAAAQQEAAAAAIAAAAAAAQAAAEAkAAgBAAABIACAAAAAAAAQAAAAAAAAAAAQABAAAAAAABAAAAQAAAAAAAAAAAAAAAAAAII3wLAAFgAOgAoACoAFwAOAAgABIACoAGQANAAcABHACYAFAAKoAXQA0AB-AEIAI4ATQAnABRgCtAGGAMsAaIA7gB-gEIAIsARwA7YB_wEegJkAUeAtgBcgC8wGLAMnAfEBG8AAA&auid=25805526.1748560798&uaa=arm&uab=64&uafvl=Not.A%252FBrand%3B99.0.0.0%7CChromium%3B136.0.7103.94&uamb=0&uam=&uap=macOS&uapv=15.3.2&uaw=0&fledge=1&_tu=Cg&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=4",
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/761321626/?random=1748560798203&cv=11&fst=1748560798203&bg=ffffff&guid=ON&async=1&gtm=45be55s2v9181635468z879074302za200zb79074302&gcd=13r3v3r3r5l1&dma=0&tcfd=10v5o&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075&ptag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075&u_w=1728&u_h=1117&url=https%3A%2F%2Fwww.dice.com%2F&hn=www.googleadservices.com&frm=0&tiba=Find%20Jobs%20in%20Tech%20%7C%20Dice.com&did=dMzk4MW&gdid=dMzk4MW&npa=0&gdpr=0&gdpr_consent=CQSLyIgQSLyIgAfGKBENBsFgAAAAAAAAACiQI3pB9G5GSSFFqDp3IboEIAQXwFhpQMAxAACAgsAAgBMAIIQCEEAAJAgAACACABAAIBRAIQBACAAAAACAAIAABACIAAAAAAAAICAAAAAQQEAAAAAIAAAAAAAQAAAEAkAAgBAAABIACAAAAAAAAQAAAAAAAAAAAQABAAAAAAABAAAAQAAAAAAAAAAAAAAAAAAII3wLAAFgAOgAoACoAFwAOAAgABIACoAGQANAAcABHACYAFAAKoAXQA0AB-AEIAI4ATQAnABRgCtAGGAMsAaIA7gB-gEIAIsARwA7YB_wEegJkAUeAtgBcgC8wGLAMnAfEBG8AAA&auid=25805526.1748560798&uaa=arm&uab=64&uafvl=Not.A%252FBrand%3B99.0.0.0%7CChromium%3B136.0.7103.94&uamb=0&uam=&uap=macOS&uapv=15.3.2&uaw=0&fledge=1&_tu=Kg&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=4",
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/761321626/?random=1748560798205&cv=11&fst=1748560798205&bg=ffffff&guid=ON&async=1&gtm=45be55s2v9181635468z879074302za200zb79074302&gcd=13r3v3r3r5l1&dma=0&tcfd=10v5o&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075&ptag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075&u_w=1728&u_h=1117&url=https%3A%2F%2Fwww.dice.com%2F&hn=www.googleadservices.com&frm=0&tiba=Find%20Jobs%20in%20Tech%20%7C%20Dice.com&did=dMzk4MW&gdid=dMzk4MW&npa=0&gdpr=0&gdpr_consent=CQSLyIgQSLyIgAfGKBENBsFgAAAAAAAAACiQI3pB9G5GSSFFqDp3IboEIAQXwFhpQMAxAACAgsAAgBMAIIQCEEAAJAgAACACABAAIBRAIQBACAAAAACAAIAABACIAAAAAAAAICAAAAAQQEAAAAAIAAAAAAAQAAAEAkAAgBAAABIACAAAAAAAAQAAAAAAAAAAAQABAAAAAAABAAAAQAAAAAAAAAAAAAAAAAAII3wLAAFgAOgAoACoAFwAOAAgABIACoAGQANAAcABHACYAFAAKoAXQA0AB-AEIAI4ATQAnABRgCtAGGAMsAaIA7gB-gEIAIsARwA7YB_wEegJkAUeAtgBcgC8wGLAMnAfEBG8AAA&auid=25805526.1748560798&uaa=arm&uab=64&uafvl=Not.A%252FBrand%3B99.0.0.0%7CChromium%3B136.0.7103.94&uamb=0&uam=&uap=macOS&uapv=15.3.2&uaw=0&fledge=1&_tu=Kg&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=4",
+        "https://www.dice.com/webfiles/1746129817054/js/dice/vendor-fraud-tracking.js",
+        "https://www.dice.com/webfiles/1746129817054/js/dhi/utils.js",
+        "https://job-search-dice-search-bar.dhishrdsvcprod.dhiaws.com/config/environment.js?v=1734644073908",
+        "https://job-search-dice-search-bar.dhishrdsvcprod.dhiaws.com/runtime.abaab477922b62f8.js",
+        "https://job-search-dice-search-bar.dhishrdsvcprod.dhiaws.com/polyfills.d0e36ebd4a86946f.js",
+        "https://job-search-dice-search-bar.dhishrdsvcprod.dhiaws.com/main.48e3cc3713b7ab5b.js",
+        "https://widgets.svc.dhigroupinc.com/online-presence-indicator-widget/runtime.5b9d918425c5cd54453d.js",
+        "https://widgets.svc.dhigroupinc.com/online-presence-indicator-widget/polyfills-es5.b55d6bbc369073d8c391.js",
+        "https://widgets.svc.dhigroupinc.com/online-presence-indicator-widget/polyfills.013f070d99f5655888c9.js",
+        "https://widgets.svc.dhigroupinc.com/online-presence-indicator-widget/main.839d1eb26d36391b1b0e.js",
+        "https://code.jquery.com/jquery-3.3.1.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js",
+        "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js",
+        "https://www.dice.com/webfiles/1746129817054/js/external/intersection-observer-polyfill.min.js",
+        "https://www.dice.com/webfiles/1746129817054/js/external/yall-v3.1.6.min.js",
+        "https://unpkg.prod.design-prod.dhiaws.com/dhi-dice-wrapper@1-stable/dist/dice-wrapper/dice-wrapper.esm.js",
+        "https://www.dice.com/webfiles/1746129817054/js/dice/searchbox-control.js",
+        "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js",
+        "https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js",
+        "https://j.6sc.co/j/3ed68041-cbf8-4420-9f51-764d1a4f3d83.js",
+        "https://partner.shareaholic.com/partners.js?location=https%3A%2F%2Fwww.dice.com%2F&canonical=https%3A%2F%2Fwww.dice.com&cl=en&id_sync=eb8fa115-12a9-43a2-8202-b5d9e13e69f6&pvs=1&site=5b3c39e0c04501cff97663f3d2320d9f",
+        "https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMzAzOTQucl9DQ1BBLmxfZW4uZF8xNDQ1MC54XzMwNy52LnAudF8xNDQ1MC54dF8xNDM.js",
+        "https://cdn.sift.com/s.js",
+        "blob:https://www.dice.com/9d65fc2b-1982-4c48-9ff8-245a2bcf8b82",
+        "https://dynamic.criteo.com/js/ld/ld.js?a=60109"
+      ],
+      "requestedDomains": [
+        "dice.com",
+        "www.dice.com",
+        "cdn-4.convertexperiments.com",
+        "d1l8sqvw5snhqo.cloudfront.net",
+        "unpkg.prod.design-prod.dhiaws.com",
+        "cdn.shareaholic.net",
+        "maxcdn.bootstrapcdn.com",
+        "job-search-dice-search-bar.dhishrdsvcprod.dhiaws.com",
+        "widgets.svc.dhigroupinc.com",
+        "code.jquery.com",
+        "cdnjs.cloudflare.com",
+        "stackpath.bootstrapcdn.com",
+        "securepubads.g.doubleclick.net",
+        "unpkg.com",
+        "logs.convertexperiments.com",
+        "10044140.metrics.convertexperiments.com",
+        "www.googletagmanager.com",
+        "cdn.openshareweb.com",
+        "www.clarity.ms",
+        "maps.googleapis.com",
+        "",
+        "analytics.shareaholic.com",
+        "www.shareaholic.net",
+        "92c1180fd75274741a8c030c058d1fdd.safeframe.googlesyndication.com",
+        "cdn.consentmanager.net",
+        "cdn.branch.io",
+        "munchkin.marketo.net",
+        "j.6sc.co",
+        "bat.bing.com",
+        "js.zi-scripts.com",
+        "cdn.jsdelivr.net",
+        "w.usabilla.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "www.google-analytics.com",
+        "partner.shareaholic.com",
+        "f.clarity.ms",
+        "app.link",
+        "secure.adnxs.com",
+        "c.6sc.co",
+        "ipv6.6sc.co",
+        "318-vqk-428.mktoresp.com",
+        "epsilon.6sense.com",
+        "b.6sc.co",
+        "delivery.consentmanager.net",
+        "ws.zoominfo.com",
+        "ws-assets.zoominfo.com",
+        "api2.branch.io",
+        "data.hockeystack.com",
+        "cdn.sift.com",
+        "ep1.adtrafficquality.google",
+        "c.clarity.ms",
+        "d6tizftlrpuof.cloudfront.net",
+        "widget.intercom.io",
+        "www.google.com",
+        "c.delivery.consentmanager.net",
+        "snap.licdn.com",
+        "a.quora.com",
+        "www.redditstatic.com",
+        "connect.facebook.net",
+        "dynamic.criteo.com",
+        "q.quora.com",
+        "pubads.g.doubleclick.net",
+        "ep2.adtrafficquality.google",
+        "c.bing.com",
+        "googleads.g.doubleclick.net",
+        "td.doubleclick.net",
+        "ad.doubleclick.net",
+        "11164823.fls.doubleclick.net",
+        "js.intercomcdn.com",
+        "px.ads.linkedin.com",
+        "pixel-config.reddit.com",
+        "alb.reddit.com",
+        "hexagon-analytics.com",
+        "www.facebook.com",
+        "www.googleadservices.com",
+        "adservice.google.com",
+        "api-iam.intercom.io",
+        "downloads.intercomcdn.com"
+      ],
+      "csp": "referrer always",
+      "trackerDomains": [
+        "securepubads.g.doubleclick.net",
+        "www.googletagmanager.com",
+        "bat.bing.com",
+        "www.google-analytics.com",
+        "secure.adnxs.com",
+        "connect.facebook.net",
+        "pubads.g.doubleclick.net",
+        "c.bing.com",
+        "googleads.g.doubleclick.net",
+        "td.doubleclick.net",
+        "ad.doubleclick.net",
+        "11164823.fls.doubleclick.net",
+        "px.ads.linkedin.com",
+        "www.facebook.com"
+      ],
+      "mixedContent": [],
+      "suspiciousPatterns": [
+        "/atob\\s*\\(/"
+      ],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://dice.com https://www.dice.com https://cdn-4.convertexperiments.com https://d1l8sqvw5snhqo.cloudfront.net https://unpkg.prod.design-prod.dhiaws.com https://cdn.shareaholic.net https://maxcdn.bootstrapcdn.com https://job-search-dice-search-bar.dhishrdsvcprod.dhiaws.com https://widgets.svc.dhigroupinc.com https://code.jquery.com https://cdnjs.cloudflare.com https://stackpath.bootstrapcdn.com https://securepubads.g.doubleclick.net https://unpkg.com https://logs.convertexperiments.com https://10044140.metrics.convertexperiments.com https://www.googletagmanager.com https://cdn.openshareweb.com https://www.clarity.ms https://maps.googleapis.com https:// https://analytics.shareaholic.com https://www.shareaholic.net https://92c1180fd75274741a8c030c058d1fdd.safeframe.googlesyndication.com https://cdn.consentmanager.net https://cdn.branch.io https://munchkin.marketo.net https://j.6sc.co https://bat.bing.com https://js.zi-scripts.com https://cdn.jsdelivr.net https://w.usabilla.com https://tpc.googlesyndication.com https://pagead2.googlesyndication.com https://www.google-analytics.com https://partner.shareaholic.com https://f.clarity.ms https://app.link https://secure.adnxs.com https://c.6sc.co https://ipv6.6sc.co https://318-vqk-428.mktoresp.com https://epsilon.6sense.com https://b.6sc.co https://delivery.consentmanager.net https://ws.zoominfo.com https://ws-assets.zoominfo.com https://api2.branch.io https://data.hockeystack.com https://cdn.sift.com https://ep1.adtrafficquality.google https://c.clarity.ms https://d6tizftlrpuof.cloudfront.net https://widget.intercom.io https://www.google.com https://c.delivery.consentmanager.net https://snap.licdn.com https://a.quora.com https://www.redditstatic.com https://connect.facebook.net https://dynamic.criteo.com https://q.quora.com https://pubads.g.doubleclick.net https://ep2.adtrafficquality.google https://c.bing.com https://googleads.g.doubleclick.net https://td.doubleclick.net https://ad.doubleclick.net https://11164823.fls.doubleclick.net https://js.intercomcdn.com https://px.ads.linkedin.com https://pixel-config.reddit.com https://alb.reddit.com https://hexagon-analytics.com https://www.facebook.com https://www.googleadservices.com https://adservice.google.com https://api-iam.intercom.io https://downloads.intercomcdn.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "AmazonS3",
+        "x-powered-by": "ASP.NET"
+      }
+    },
+    "pyScanner": {
+      "url": "https://dice.com",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+            "reasons": [
+              "Suspicious keyword in URL"
+            ]
+          }
+        ],
+        "forms": [],
+        "iframes": [
+          {
+            "iframe_src": "https://www.googletagmanager.com/ns.html?id=GTM-WLPMJGK",
+            "warning": "Third-party iframe detected"
+          }
+        ]
+      }
+    }
+  },
+  "919e31dd-04f0-40df-bf9b-4ade65760928": {
+    "success": true,
+    "url": "https://monster.com",
+    "summary": {
+      "mixedContent": "None detected",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-1234567890&cx=c&gtm=45He55s2v830464171za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-TTZS5RQ",
+        "https://datadome.monster.com/tags.js",
+        "[inline]",
+        "https://cdn.cookielaw.org/scripttemplates/202502.1.0/otBannerSdk.js",
+        "https://cdn.cookielaw.org/scripttemplates/202502.1.0/otGPP.js",
+        "https://www.monster.com/1ca26066b15d194aae60d8d8209d1dcb8f537d60-2ffa10713cc96f5c4487.js",
+        "https://www.monster.com/3c079c09fe87788090c92e0664e5c1dc83d6f823-0fdad4d7d867474f6e83.js",
+        "https://www.monster.com/df3a4cf5-bc04a82cbb1f3b072fb4.js",
+        "https://www.monster.com/7d091580-bd57b45ca314c74f23cb.js",
+        "https://www.monster.com/4741219c-41e518daef7e298ebddd.js",
+        "https://www.monster.com/app-a568905585a21f3c604c.js",
+        "https://www.monster.com/framework-00c232fc1b22e9cb77f3.js",
+        "https://www.monster.com/webpack-runtime-9c7b027608494d8ba8c1.js",
+        "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+      ],
+      "requestedDomains": [
+        "monster.com",
+        "www.monster.com",
+        "datadome.monster.com",
+        "",
+        "www.googletagmanager.com",
+        "appsapi.monster.io",
+        "sr-client-cfg.eu.amplitude.com",
+        "privacy-policy.truste.com",
+        "api.lab.eu.amplitude.com",
+        "api.eu.amplitude.com",
+        "cdn.cookielaw.org",
+        "geolocation.onetrust.com",
+        "tagmgr.monster.com"
+      ],
+      "csp": "object-src 'none'; frame-ancestors https://*.trustarc.com https://*.truste.com ; upgrade-insecure-requests; block-all-mixed-content;\nupgrade-insecure-requests\ndefault-src 'self' 'unsafe-eval' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; font-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; style-src 'self' 'unsafe-inline' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; img-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net https://trustarc.com; frame-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; connect-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; upgrade-insecure-requests; block-all-mixed-content;",
+      "trackerDomains": [
+        "www.googletagmanager.com"
+      ],
+      "mixedContent": [],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://monster.com https://www.monster.com https://datadome.monster.com https:// https://www.googletagmanager.com https://appsapi.monster.io https://sr-client-cfg.eu.amplitude.com https://privacy-policy.truste.com https://api.lab.eu.amplitude.com https://api.eu.amplitude.com https://cdn.cookielaw.org https://geolocation.onetrust.com https://tagmgr.monster.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "cloudflare"
+      }
+    },
+    "pyScanner": {
+      "url": "https://monster.com",
+      "status": "scanned",
+      "details": {
+        "scripts": [],
+        "forms": [],
+        "iframes": []
+      }
+    }
+  },
+  "4cf13ccc-2f28-4412-8218-ab6e6472252b": {
+    "success": true,
+    "url": "https://edgecast.io",
+    "summary": {
+      "mixedContent": "Mixed content found",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://opps-widget.getwarmly.com/widget-sMcICLlU.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-THEXZY5VW5&cx=c&gtm=45He55t0h2v9210006660za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-T5C3KVJQ",
+        "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+        "[inline]",
+        "https://www.googletagmanager.com/gtag/js?id=G-THEXZY5VW5",
+        "https://edgecast3283241z.btttag.com/btt.js",
+        "https://r2.leadsy.ai/tag.js",
+        "https://tag.trovo-tag.com/ldc.js?pid=vp67YxIwKEjxZuGV&aid=123103c7",
+        "https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache=9blsyi",
+        "https://challenges.cloudflare.com/turnstile/v0/api.js",
+        "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67e46a5eb1d6da8ae277d2b2",
+        "https://cdn.prod.website-files.com/67e46a5eb1d6da8ae277d2b2/js/webflow.schunk.36b8fb49256177c8.js",
+        "https://cdn.prod.website-files.com/67e46a5eb1d6da8ae277d2b2/js/webflow.a730ca5a.00791bf0a1508adb.js",
+        "https://unpkg.com/@formspark/formson",
+        "https://opps-widget.getwarmly.com/warmly.js?clientId=de43560d59111fff1700de179bb9de81",
+        "https://unpkg.com/@botpoison/browser"
+      ],
+      "requestedDomains": [
+        "edgecast.io",
+        "www.edgecast.io",
+        "cdn.prod.website-files.com",
+        "ajax.googleapis.com",
+        "www.googletagmanager.com",
+        "edgecast3283241z.btttag.com",
+        "r2.leadsy.ai",
+        "d3e54v103j8qbb.cloudfront.net",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "tag.trovo-tag.com",
+        "wvbknd.leadsy.ai",
+        "assets.apollo.io",
+        "opps-widget.getwarmly.com",
+        "www.google-analytics.com",
+        "challenges.cloudflare.com",
+        "aplo-evnt.com",
+        "",
+        "a.remarketstats.com",
+        "a.usbrowserspeed.com",
+        "match.prod.bidr.io",
+        "opps-api.getwarmly.com"
+      ],
+      "csp": "default-src * 'unsafe-eval' 'unsafe-inline' data: blob: ws: wss: filesystem:; frame-ancestors 'self' https://*.tourial.com;",
+      "trackerDomains": [
+        "www.googletagmanager.com",
+        "www.google-analytics.com"
+      ],
+      "mixedContent": [
+        "http://docs.edgecast.io/",
+        "http://docs.edgecast.io/"
+      ],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://edgecast.io https://www.edgecast.io https://cdn.prod.website-files.com https://ajax.googleapis.com https://www.googletagmanager.com https://edgecast3283241z.btttag.com https://r2.leadsy.ai https://d3e54v103j8qbb.cloudfront.net https://unpkg.com https://fonts.googleapis.com https://fonts.gstatic.com https://tag.trovo-tag.com https://wvbknd.leadsy.ai https://assets.apollo.io https://opps-widget.getwarmly.com https://www.google-analytics.com https://challenges.cloudflare.com https://aplo-evnt.com https:// https://a.remarketstats.com https://a.usbrowserspeed.com https://match.prod.bidr.io https://opps-api.getwarmly.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "cloudflare"
+      }
+    },
+    "pyScanner": {
+      "url": "https://edgecast.io",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "https://r2.leadsy.ai/tag.js",
+            "reasons": [
+              "Suspicious keyword in URL"
+            ]
+          }
+        ],
+        "forms": [],
+        "iframes": [
+          {
+            "iframe_src": "https://www.googletagmanager.com/ns.html?id=GTM-T5C3KVJQ",
+            "warning": "Third-party iframe detected"
+          }
+        ]
+      }
+    }
+  },
+  "7868f064-d443-43b2-82fe-bf0f9d7acfa2": {
+    "success": true,
+    "url": "https://monster.com",
+    "summary": {
+      "mixedContent": "None detected",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-1234567890&cx=c&gtm=45He55s2v830464171za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-TTZS5RQ",
+        "https://datadome.monster.com/tags.js",
+        "[inline]",
+        "https://cdn.cookielaw.org/scripttemplates/202502.1.0/otBannerSdk.js",
+        "https://cdn.cookielaw.org/scripttemplates/202502.1.0/otGPP.js",
+        "https://www.monster.com/app-a568905585a21f3c604c.js",
+        "https://www.monster.com/framework-00c232fc1b22e9cb77f3.js",
+        "https://www.monster.com/webpack-runtime-9c7b027608494d8ba8c1.js",
+        "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+      ],
+      "requestedDomains": [
+        "monster.com",
+        "www.monster.com",
+        "datadome.monster.com",
+        "www.googletagmanager.com",
+        "appsapi.monster.io",
+        "sr-client-cfg.eu.amplitude.com",
+        "privacy-policy.truste.com",
+        "",
+        "api.lab.eu.amplitude.com",
+        "api.eu.amplitude.com",
+        "cdn.cookielaw.org",
+        "geolocation.onetrust.com",
+        "tagmgr.monster.com"
+      ],
+      "csp": "object-src 'none'; frame-ancestors https://*.trustarc.com https://*.truste.com ; upgrade-insecure-requests; block-all-mixed-content;\nupgrade-insecure-requests\ndefault-src 'self' 'unsafe-eval' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; font-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; style-src 'self' 'unsafe-inline' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; img-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net https://trustarc.com; frame-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; connect-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; upgrade-insecure-requests; block-all-mixed-content;",
+      "trackerDomains": [
+        "www.googletagmanager.com"
+      ],
+      "mixedContent": [],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://monster.com https://www.monster.com https://datadome.monster.com https://www.googletagmanager.com https://appsapi.monster.io https://sr-client-cfg.eu.amplitude.com https://privacy-policy.truste.com https:// https://api.lab.eu.amplitude.com https://api.eu.amplitude.com https://cdn.cookielaw.org https://geolocation.onetrust.com https://tagmgr.monster.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "cloudflare"
+      }
+    },
+    "pyScanner": {
+      "url": "https://monster.com",
+      "status": "scanned",
+      "details": {
+        "scripts": [],
+        "forms": [],
+        "iframes": []
+      }
+    }
+  },
+  "9bbe0070-5d7b-4dc0-b747-c30d8cec245e": {
+    "success": true,
+    "url": "https://letsdemo.co",
+    "summary": {
+      "mixedContent": "None detected",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://letsdemo.co/js/jquery-1.11.0.min.js",
+        "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js",
+        "https://letsdemo.co/js/plugins.js",
+        "https://letsdemo.co/js/script.js"
+      ],
+      "requestedDomains": [
+        "letsdemo.co",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "report.edgecast.io",
+        ""
+      ],
+      "csp": "default-src 'self'; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://fonts.googleapis.com; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; img-src 'self' data:; font-src 'self' https://cdn.jsdelivr.net https://fonts.gstatic.com; connect-src 'self' https://ecomm-demo.free.beeceptor.com; frame-src 'none'; form-action 'self'; report-uri https://report.edgecast.io/csp/f4378588-0ff2-4da3-a112-e9973f46625e",
+      "trackerDomains": [],
+      "mixedContent": [],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://letsdemo.co https://cdn.jsdelivr.net https://fonts.googleapis.com https://report.edgecast.io https://;",
+      "dangerousHeaders": {
+        "server": "nginx/1.26.0 (Ubuntu)"
+      }
+    },
+    "pyScanner": {
+      "url": "https://letsdemo.co",
+      "status": "scanned",
+      "details": {
+        "scripts": [],
+        "forms": [],
+        "iframes": []
+      }
+    }
+  },
+  "5a02daaa-78fd-4f07-8a68-e9bbb3e69999": {
+    "success": true,
+    "url": "https://yahoo.com",
+    "summary": {
+      "mixedContent": "Mixed content found",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://static.criteo.net/js/ld/publishertag.prebid.144.js",
+        "https://pm-widget.taboola.com/yahooweb-network/load.js",
+        "https://s.yimg.com/aaq/vzm/cs_1.6.6.js",
+        "[inline]",
+        "https://s.yimg.com/aaq/wf/wf-loader-2.7.21-modern.js",
+        "https://consent.cmp.oath.com/version/7.0.0/cmp.js",
+        "https://s.yimg.com/oa/consent.js",
+        "https://s.yimg.com/aaq/fp/js/tdv2-wafer-utils.customErrorHandler.bcda778b736c3a054af62f437b536e78.js",
+        "https://s.yimg.com/aaq/scp/js/fpDesktop.46ec7cd52ee9f5c1236b0dea5072690a.js",
+        "https://s.yimg.com/aaq/scp/js/yBanner.8530e811ce25816762c911ea09fac1a5.js",
+        "https://s.yimg.com/aaq/benji/benji-2.2.145.js",
+        "https://s.yimg.com/aaq/wf/wf-caas-1.36.6-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-toggle-1.15.4-modern.js",
+        "https://s.yimg.com/aaq/fp/js/react-wafer-featurebar.custom.modern.12732500bc8e47693f0d777bbe88001c.js",
+        "https://s.yimg.com/aaq/wf/wf-video-3.2.2-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-text-1.2.0-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-bind-1.1.3-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-image-1.4.0-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-rapid-1.10.9-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-beacon-1.3.4-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-scrollview-2.23.3-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-fetch-1.19.1-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-lightbox-1.10.6-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-countdown-1.2.5-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-benji-1.2.0-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-clipboard-copy-1.0.2-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-action-1.8.1-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-template-1.4.3-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-menu-1.3.5-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-form-1.34.5-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-native-da-1.0.5-modern.js",
+        "https://s.yimg.com/aaq/fp/js/react-wafer-stream.custom.modern.1ed4fe71b1fc647ddbf37a7050944309.js",
+        "https://s.yimg.com/aaq/wf/wf-autocomplete-1.31.8-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-geolocation-1.3.0-modern.js",
+        "https://s.yimg.com/aaq/wf/wf-tabs-1.12.6-modern.js",
+        "https://s.yimg.com/aaq/fp/js/react-wafer-games.custom.modern.5043a481c515b36358c32b8ea2d581fe.js",
+        "https://s.yimg.com/aaq/fp/js/react-wafer-horoscope.custom.desktop.modern.ffa267708ad72844b8b0b68271c358cb.js",
+        "https://s.yimg.com/aaq/wf/wf-sticky-1.2.6-modern.js",
+        "https://s.yimg.com/aaq/c/fefdc92.caas-news_web.min.js",
+        "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "https://s.yimg.com/du/ay/wnsrvbjmeprtfrnfx.js",
+        "https://s.yimg.com/aaq/prebid/prebid-2.0.js",
+        "https://cdn.taboola.com/libtrc/yahooweb-network/loader.js",
+        "https://opus.analytics.yahoo.com/tag/opus.js",
+        "https://s.yimg.com/aaq/wf/wf-autocomplete-1.31.8-modern-a4f31e10ae.chunk.js",
+        "https://wnsrvbjmeprtfrnfx.ay.delivery/floorPrice/wnsrvBJmEPrTfrnFX/js/floorPrice/linreg.min.js",
+        "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202505220101/pubads_impl.js?cb=31092702",
+        "https://ads.pubmatic.com/AdServer/js/google-esp.js",
+        "https://pm-widget.taboola.com/yahooweb-network/pmk-20220605.1.js",
+        "https://edge-mcdn.secure.yahoo.com/ybar/cerebro_min.js",
+        "https://s.yimg.com/ss/analytics-3.54.3.js",
+        "https://s.yimg.com/aaq/wf/wf-core-1.65.1-modern.js",
+        "https://s.yimg.com/cx/hp-viewer/desktop_1.11.207.modern.js",
+        "https://s.yimg.com/aaq/notifications/js/sh-5.17.91.js",
+        "https://s.yimg.com/aaq/hc/homepage-pwa-defer-1.1.6.js",
+        "https://s.yimg.com/uc/sf/0.1.434/js/safe.min.js",
+        "https://s.yimg.com/nn/lib/metro/g/myy/advertisement_0.0.19.js",
+        "https://s.yimg.com/cx/pv/perf-vitals_3.5.0.js"
+      ],
+      "requestedDomains": [
+        "yahoo.com",
+        "www.yahoo.com",
+        "s.yimg.com",
+        "consent.cmp.oath.com",
+        "edge-mcdn.secure.yahoo.com",
+        "guce.yahoo.com",
+        "signal-service.pbs.yahoo.com",
+        "noa.yahoo.com",
+        "securepubads.g.doubleclick.net",
+        "cdn.taboola.com",
+        "opus.analytics.yahoo.com",
+        "s.aolcdn.com",
+        "wnsrvbjmeprtfrnfx.ay.delivery",
+        "udc.yahoo.com",
+        "v-ajama6kv81.wc.yahoodns.net",
+        "v-b5o39uqwya.wc.yahoodns.net",
+        "v-cghxrf5uo3.wc.yahoodns.net",
+        "dns-7vze5wlri.sombrero.yahoo.net",
+        "cerebro.edna.yahoo.net",
+        "5p90l1whk.wc.06yahoo.com",
+        "qc49dfbe.wc.66yahoo.com",
+        "i.clean.gg",
+        "geo.yahoo.com",
+        "pbs.yahoo.com",
+        "idx.liadm.com",
+        "ups.analytics.yahoo.com",
+        "sb.scorecardresearch.com",
+        "pm-widget.taboola.com",
+        "ads.pubmatic.com",
+        "c2shb-oao.ssp.yahoo.com",
+        "pbs-yahoo-us.ay.delivery",
+        "prebid-server.rubiconproject.com",
+        "fastlane.rubiconproject.com",
+        "tlx.3lift.com",
+        "display.bidder.taboola.com",
+        "hbopenbid.pubmatic.com",
+        "bidder.criteo.com",
+        "ads.yieldmo.com",
+        "exchange.kueezrtb.com",
+        "rtb.openx.net",
+        "s.seedtag.com",
+        "htlb.casalemedia.com",
+        "prebid.media.net",
+        "ap.lijit.com",
+        "rp.liadm.com",
+        "api.taboola.com",
+        "ybar-b5o39uqwyareport.wc.yahoodns.net",
+        "ybar-mcdn-report.wc.yahoodns.net",
+        "ybar-cghxrf5uo3report.wc.yahoodns.net",
+        "cerebro-dns-report.wc.yahoodns.net",
+        "ybar-ajama6kv81report.wc.yahoodns.net",
+        "match.sharethrough.com",
+        "image6.pubmatic.com",
+        "tsdtocl.com",
+        "65a4ed8cfef449611a0a388c3dac3877.safeframe.googlesyndication.com",
+        "ce.lijit.com",
+        "trc.taboola.com",
+        "aa.agkn.com",
+        "dpm.demdex.net",
+        "uipglob.semasio.net",
+        "tags.bluekai.com",
+        "sync.1rx.io",
+        "cms.analytics.yahoo.com",
+        "tpc.googlesyndication.com",
+        "ads.rubiconproject.com",
+        "pagead2.googlesyndication.com",
+        "prebid-match.dotomi.com",
+        "smarttag.rubiconproject.com",
+        "secure-assets.rubiconproject.com",
+        "pbs-cs.yellowblue.io",
+        "",
+        "visitor-risecode.omnitagjs.com",
+        "cm.adform.net",
+        "ads.stickyadstv.com",
+        "csync.loopme.me",
+        "contextual.media.net",
+        "s.ad.smaato.net",
+        "ib.adnxs.com",
+        "sync.inmobi.com",
+        "rtb.mfadsrvr.com",
+        "creativecdn.com",
+        "sync.go.sonobi.com",
+        "image8.pubmatic.com",
+        "ssp-sync.criteo.com",
+        "ssbsync.smartadserver.com",
+        "bh.contextweb.com",
+        "ssc-cms.33across.com",
+        "x.bidswitch.net",
+        "onetag-sys.com",
+        "ssp.disqus.com",
+        "eus.rubiconproject.com",
+        "static.criteo.net",
+        "cs.yellowblue.io",
+        "pixel-eu.rubiconproject.com",
+        "pixel.rubiconproject.com",
+        "t.adx.opera.com",
+        "ssbsync-global.smartadserver.com",
+        "cm.g.doubleclick.net",
+        "ms-cookie-sync.presage.io",
+        "s.amazon-adsystem.com",
+        "token.rubiconproject.com",
+        "dis.criteo.com",
+        "www.temu.com",
+        "p.rfihub.com",
+        "rtb.gumgum.com",
+        "js-sec.indexww.com",
+        "eb2.3lift.com",
+        "sync.kueezrtb.com",
+        "yahoo-bidout-d.openx.net",
+        "pixel-us-east.rubiconproject.com",
+        "pixel.tapad.com",
+        "match.adsrvr.org",
+        "prebid.a-mo.net",
+        "gum.criteo.com",
+        "www.google.com"
+      ],
+      "csp": "frame-ancestors 'self' https://*.builtbygirls.com https://*.rivals.com https://*.engadget.com https://*.intheknow.com https://*.autoblog.com https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.pnr.ouryahoo.com https://pnr.ouryahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.onesearch.com https://*.verizonmedia.com https://*.publishing.oath.com https://cdn.taboola.com https://ads.taboola.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=news&region=US&lang=en-US&device=desktop&yrid=6o9nr8tivmg0j&partner=;",
+      "trackerDomains": [
+        "securepubads.g.doubleclick.net",
+        "cdn.taboola.com",
+        "sb.scorecardresearch.com",
+        "pm-widget.taboola.com",
+        "display.bidder.taboola.com",
+        "api.taboola.com",
+        "trc.taboola.com",
+        "ib.adnxs.com",
+        "cm.g.doubleclick.net"
+      ],
+      "mixedContent": [
+        "http://www.yahoo.com/?page=2"
+      ],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://yahoo.com https://www.yahoo.com https://s.yimg.com https://consent.cmp.oath.com https://edge-mcdn.secure.yahoo.com https://guce.yahoo.com https://signal-service.pbs.yahoo.com https://noa.yahoo.com https://securepubads.g.doubleclick.net https://cdn.taboola.com https://opus.analytics.yahoo.com https://s.aolcdn.com https://wnsrvbjmeprtfrnfx.ay.delivery https://udc.yahoo.com https://v-ajama6kv81.wc.yahoodns.net https://v-b5o39uqwya.wc.yahoodns.net https://v-cghxrf5uo3.wc.yahoodns.net https://dns-7vze5wlri.sombrero.yahoo.net https://cerebro.edna.yahoo.net https://5p90l1whk.wc.06yahoo.com https://qc49dfbe.wc.66yahoo.com https://i.clean.gg https://geo.yahoo.com https://pbs.yahoo.com https://idx.liadm.com https://ups.analytics.yahoo.com https://sb.scorecardresearch.com https://pm-widget.taboola.com https://ads.pubmatic.com https://c2shb-oao.ssp.yahoo.com https://pbs-yahoo-us.ay.delivery https://prebid-server.rubiconproject.com https://fastlane.rubiconproject.com https://tlx.3lift.com https://display.bidder.taboola.com https://hbopenbid.pubmatic.com https://bidder.criteo.com https://ads.yieldmo.com https://exchange.kueezrtb.com https://rtb.openx.net https://s.seedtag.com https://htlb.casalemedia.com https://prebid.media.net https://ap.lijit.com https://rp.liadm.com https://api.taboola.com https://ybar-b5o39uqwyareport.wc.yahoodns.net https://ybar-mcdn-report.wc.yahoodns.net https://ybar-cghxrf5uo3report.wc.yahoodns.net https://cerebro-dns-report.wc.yahoodns.net https://ybar-ajama6kv81report.wc.yahoodns.net https://match.sharethrough.com https://image6.pubmatic.com https://tsdtocl.com https://65a4ed8cfef449611a0a388c3dac3877.safeframe.googlesyndication.com https://ce.lijit.com https://trc.taboola.com https://aa.agkn.com https://dpm.demdex.net https://uipglob.semasio.net https://tags.bluekai.com https://sync.1rx.io https://cms.analytics.yahoo.com https://tpc.googlesyndication.com https://ads.rubiconproject.com https://pagead2.googlesyndication.com https://prebid-match.dotomi.com https://smarttag.rubiconproject.com https://secure-assets.rubiconproject.com https://pbs-cs.yellowblue.io https:// https://visitor-risecode.omnitagjs.com https://cm.adform.net https://ads.stickyadstv.com https://csync.loopme.me https://contextual.media.net https://s.ad.smaato.net https://ib.adnxs.com https://sync.inmobi.com https://rtb.mfadsrvr.com https://creativecdn.com https://sync.go.sonobi.com https://image8.pubmatic.com https://ssp-sync.criteo.com https://ssbsync.smartadserver.com https://bh.contextweb.com https://ssc-cms.33across.com https://x.bidswitch.net https://onetag-sys.com https://ssp.disqus.com https://eus.rubiconproject.com https://static.criteo.net https://cs.yellowblue.io https://pixel-eu.rubiconproject.com https://pixel.rubiconproject.com https://t.adx.opera.com https://ssbsync-global.smartadserver.com https://cm.g.doubleclick.net https://ms-cookie-sync.presage.io https://s.amazon-adsystem.com https://token.rubiconproject.com https://dis.criteo.com https://www.temu.com https://p.rfihub.com https://rtb.gumgum.com https://js-sec.indexww.com https://eb2.3lift.com https://sync.kueezrtb.com https://yahoo-bidout-d.openx.net https://pixel-us-east.rubiconproject.com https://pixel.tapad.com https://match.adsrvr.org https://prebid.a-mo.net https://gum.criteo.com https://www.google.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "cafe",
+        "x-powered-by": "PHP/8.3.13"
+      }
+    },
+    "pyScanner": {
+      "url": "https://yahoo.com",
+      "status": "scanned",
+      "details": {
+        "scripts": [],
+        "forms": [],
+        "iframes": []
+      }
+    }
+  },
+  "0362b498-634e-4a88-ba01-4825030204fc": {
+    "success": true,
+    "url": "https://rulison.com",
+    "summary": {
+      "mixedContent": "Mixed content found",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "[inline]",
+        "https://www.rulison.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://www.rulison.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://www.rulison.com/wp-content/themes/notation-blog/assets/js/navigation.min.js?ver=20151215",
+        "https://www.rulison.com/wp-content/themes/notation-blog/assets/js/skip-link-focus-fix.min.js?ver=20151215",
+        "https://www.rulison.com/wp-content/themes/notation-blog/assets/js/custom.min.js?ver=20151215"
+      ],
+      "requestedDomains": [
+        "rulison.com",
+        "www.rulison.com",
+        "fonts.googleapis.com",
+        "",
+        "fonts.gstatic.com"
+      ],
+      "csp": "Not set",
+      "trackerDomains": [],
+      "mixedContent": [
+        "http://creativthemes.com/"
+      ],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://rulison.com https://www.rulison.com https://fonts.googleapis.com https:// https://fonts.gstatic.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "Apache"
+      }
+    },
+    "pyScanner": {
+      "url": "https://rulison.com",
+      "status": "scanned",
+      "details": {
+        "scripts": [],
+        "forms": [],
+        "iframes": []
+      }
+    }
+  },
+  "6cccf6c8-7c11-4541-bd7c-5403fece8126": {
+    "success": true,
+    "url": "https://ashendchildrensfarm.co.uk",
+    "summary": {
+      "mixedContent": "Mixed content found",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "Third-party iframes found"
+    },
+    "jsScanner": {
+      "scripts": [
+        "[inline]",
+        "https://s0.wp.com/wp-content/js/rlt-proxy.js?m=1720530689i",
+        "https://0.gravatar.com/js/hovercards/hovercards.min.js?ver=20252217d2298fc173af206bd9f65440008ab9e1ee2bd896241083289a9e27bd0efc7c",
+        "https://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i",
+        "https://s0.wp.com/wp-content/js/mobile-useragent-info.js?m=1609849039i&ver=20241018",
+        "https://s0.wp.com/_static/??-eJxtkNsOgjAQRH/IdkVAfTF+illKgwu9pReIf28NqAR93Mmc2cnA5JiwJkoTQSfmVOrIBBBW6ywxRYMM0G8E3ocdrMAv1SgrhgAHXpx5wQJppyTzcuQVtBTinDSbmLLYSs81mW1evEud37rUwIie8IU5Txr9gxkcqcNI9oda1e9ldCiG5YaQDNzICGgSqRYEepuCVB/bW/jXZT3KYmOTy3Nszsxd9aU4Vce6Lst91T8BPTN/7A==",
+        "https://stats.wp.com/w.js?68",
+        "https://ashendchildrensfarm.co.uk/wp-content/js/bilmur-4.min.js?i=13&m=202522",
+        "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20250204"
+      ],
+      "requestedDomains": [
+        "ashendchildrensfarm.co.uk",
+        "s0.wp.com",
+        "fonts-api.wp.com",
+        "",
+        "0.gravatar.com",
+        "stats.wp.com",
+        "fonts.wp.com",
+        "pixel.wp.com",
+        "r-login.wordpress.com"
+      ],
+      "csp": "Not set",
+      "trackerDomains": [],
+      "mixedContent": [
+        "http://eepurl.com/h_Hyw5"
+      ],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [
+        "https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&origin=aHR0cHM6Ly9hc2hlbmRjaGlsZHJlbnNmYXJtLmNvLnVr&wpcomid=190515919&time=1748564897"
+      ],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://ashendchildrensfarm.co.uk https://s0.wp.com https://fonts-api.wp.com https:// https://0.gravatar.com https://stats.wp.com https://fonts.wp.com https://pixel.wp.com https://r-login.wordpress.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "nginx"
+      }
+    },
+    "pyScanner": {
+      "url": "https://ashendchildrensfarm.co.uk",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          }
+        ],
+        "forms": [
+          {
+            "form_action": "[empty]",
+            "warning": "Form has no action"
+          }
+        ],
+        "iframes": [],
+        "headers": {
+          "csp": {
+            "status": "missing",
+            "warning": "No Content-Security-Policy header set"
+          }
+        },
+        "mixedContent": [
+          "http://eepurl.com/h_Hyw5"
+        ]
+      }
+    }
+  },
+  "9f958d07-ec75-4430-9ccf-b71883ca4ead": {
+    "success": true,
+    "url": "https://www.discountbedsbelfast.co.uk",
+    "summary": {
+      "mixedContent": "Mixed content found",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-H04V9SZ4Z1&cx=c&_slc=1",
+        "https://www.google-analytics.com/analytics.js",
+        "[inline]",
+        "https://101.sb.mywebsite-editor.com/app/logstate-js.php?site=129898107&t=1748565298",
+        "https://cdn.website-start.de/app/cdn/min/group/web.js?1724143388249",
+        "https://cdn.website-start.de/s/build/web.bundle.js?1724143388249",
+        "https://cdn.website-start.de/app/cdn/min/moduleserver/js/en_GB/common,product_search,counter,facebook?1724143388249",
+        "https://cdn.website-start.de/proxy/apps/oumae4/resource/dependencies/",
+        "https://cdn.website-start.de/app/cdn/min/group/pfcsupport.js?1724143388249",
+        "https://cdn.website-start.de/proxy/apps/oumae4/js/order.js",
+        "https://cdn.website-start.de/proxy/apps/aesai6/s/contentApps/socialNetworkBar/public/js/socialNetworkBar.js?rev-1572433084=",
+        "https://cdn.website-start.de/proxy/apps/aesai6/api/app/contentApps/translation/en_GB?rev-1572433084=",
+        "https://cdn.website-start.de/proxy/apps/aesai6/s/contentApps/paymentTypes/public/js/paymentTypes.js?rev-1572433084=",
+        "http://www.freeindex.co.uk/widgets/ratings.asp?BID=323293&type=6"
+      ],
+      "requestedDomains": [
+        "www.discountbedsbelfast.co.uk",
+        "cdn.website-start.de",
+        "101.sb.mywebsite-editor.com",
+        "www.freeindex.co.uk",
+        "www.cylex-uk.co.uk",
+        "static.xx.fbcdn.net",
+        "www.google-analytics.com",
+        "www.googletagmanager.com"
+      ],
+      "csp": "Not set",
+      "trackerDomains": [
+        "www.google-analytics.com",
+        "www.googletagmanager.com"
+      ],
+      "mixedContent": [
+        "http://www.freeindex.co.uk/categories/shopping/home_and_garden/beds/",
+        "http://www.freeindex.co.uk/fx/gad2011_txt2.gif",
+        "http://www.freeindex.co.uk/widgets/ratings.asp?BID=323293&type=6",
+        "http://www.cylex-uk.co.uk/company/discount-beds-belfast-beds-mattress-17031197.html",
+        "http://www.cylex-uk.co.uk/images/cylex-silver-17031197.gif",
+        "http://www.discountbedsbelfast.co.uk"
+      ],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://www.discountbedsbelfast.co.uk https://cdn.website-start.de https://101.sb.mywebsite-editor.com https://www.freeindex.co.uk https://www.cylex-uk.co.uk https://static.xx.fbcdn.net https://www.google-analytics.com https://www.googletagmanager.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "Apache"
+      }
+    },
+    "pyScanner": {
+      "url": "https://www.discountbedsbelfast.co.uk",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "http://www.freeindex.co.uk/widgets/ratings.asp?BID=323293&type=6",
+            "reasons": [
+              "Insecure HTTP Script"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          }
+        ],
+        "forms": [
+          {
+            "form_action": "[empty]",
+            "warning": "Form has no action"
+          }
+        ],
+        "iframes": [],
+        "headers": {
+          "csp": {
+            "status": "missing",
+            "warning": "No Content-Security-Policy header set"
+          }
+        },
+        "mixedContent": [
+          "http://www.freeindex.co.uk/fx/gad2011_txt2.gif",
+          "http://www.freeindex.co.uk/widgets/ratings.asp?BID=323293&type=6",
+          "http://www.cylex-uk.co.uk/images/cylex-silver-17031197.gif",
+          "http://www.freeindex.co.uk/categories/shopping/home_and_garden/beds/",
+          "http://www.cylex-uk.co.uk/company/discount-beds-belfast-beds-mattress-17031197.html",
+          "http://www.discountbedsbelfast.co.uk"
+        ]
+      }
+    }
+  },
+  "0076752b-9800-4dd2-9577-df0ef7a6c53e": {
+    "success": true,
+    "url": "https://www.gothamgarage.com",
+    "summary": {
+      "mixedContent": "None detected",
+      "suspiciousScripts": "Suspicious scripts present",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "[inline]",
+        "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+        "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+        "https://static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[DropDownMenu_ShinyMenuIButtonSkin].70c480fa.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.2135af90.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[TextInput].03ad1d5e.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Checkbox].4ee2fb85.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.bd9732aa.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_DefaultAreaSkin].42a7990c.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StripColumnsContainer_Default].77c39bf3.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AppWidget_Classic].5d414cf3.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FormContainer_FormContainerSkin].187e21cd.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MeshGroup].f88c99ed.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].69abe737.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLine].b91bad1d.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ClassicSection].1458f2f2.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_RectangleArea].9b1b9f73.bundle.min.js",
+        "https://static.parastorage.com/services/ecom-platform-cart-icon/1.1533.0/CartIconViewerWidgetNoCss.bundle.min.js",
+        "https://static.parastorage.com/services/profile-card-tpa-ooi/1.2748.0/ProfileCardViewerWidgetNoCss.bundle.min.js",
+        "https://static.parastorage.com/services/wixstores-client-gallery/1.5121.0/GridGalleryViewerWidgetNoCss.bundle.min.js",
+        "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+        "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.2d6f15a4.bundle.min.js",
+        "https://static.parastorage.com/services/wix-thunderbolt/dist/main.360ae69e.bundle.min.js",
+        "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.f600e767.bundle.min.js",
+        "https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js",
+        "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+        "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+        "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
+        "https://static.parastorage.com/services/tag-manager-client/1.920.0/siteTags.bundle.min.js"
+      ],
+      "requestedDomains": [
+        "www.gothamgarage.com",
+        "static.wixstatic.com",
+        "frog.wix.com",
+        "panorama.wixapps.net",
+        "",
+        "static.parastorage.com",
+        "siteassets.parastorage.com",
+        "browser.sentry-cdn.com",
+        "video.wixstatic.com"
+      ],
+      "csp": "Not set",
+      "trackerDomains": [],
+      "mixedContent": [],
+      "suspiciousPatterns": [
+        "/Function\\s*\\(/"
+      ],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://www.gothamgarage.com https://static.wixstatic.com https://frog.wix.com https://panorama.wixapps.net https:// https://static.parastorage.com https://siteassets.parastorage.com https://browser.sentry-cdn.com https://video.wixstatic.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "Pepyaka"
+      }
+    },
+    "pyScanner": {
+      "url": "https://www.gothamgarage.com",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+            "reasons": [
+              "Suspicious keyword in URL"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          }
+        ],
+        "forms": [
+          {
+            "form_action": "[empty]",
+            "warning": "Form has no action"
+          }
+        ],
+        "iframes": [],
+        "headers": {
+          "csp": {
+            "status": "missing",
+            "warning": "No Content-Security-Policy header set"
+          }
+        },
+        "mixedContent": []
+      }
+    }
+  },
+  "ca3875c1-b5ed-41a6-9340-d5a4d9143edb": {
+    "success": true,
+    "url": "https://www.gothamgarage.com",
+    "summary": {
+      "mixedContent": "None detected",
+      "suspiciousScripts": "Suspicious scripts present",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "[inline]",
+        "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+        "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+        "https://static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[DropDownMenu_ShinyMenuIButtonSkin].70c480fa.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.2135af90.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[TextInput].03ad1d5e.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Checkbox].4ee2fb85.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.bd9732aa.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_DefaultAreaSkin].42a7990c.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StripColumnsContainer_Default].77c39bf3.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AppWidget_Classic].5d414cf3.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FormContainer_FormContainerSkin].187e21cd.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MeshGroup].f88c99ed.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].69abe737.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLine].b91bad1d.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ClassicSection].1458f2f2.bundle.min.js",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_RectangleArea].9b1b9f73.bundle.min.js",
+        "https://static.parastorage.com/services/ecom-platform-cart-icon/1.1533.0/CartIconViewerWidgetNoCss.bundle.min.js",
+        "https://static.parastorage.com/services/profile-card-tpa-ooi/1.2748.0/ProfileCardViewerWidgetNoCss.bundle.min.js",
+        "https://static.parastorage.com/services/wixstores-client-gallery/1.5121.0/GridGalleryViewerWidgetNoCss.bundle.min.js",
+        "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+        "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.2d6f15a4.bundle.min.js",
+        "https://static.parastorage.com/services/wix-thunderbolt/dist/main.360ae69e.bundle.min.js",
+        "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.f600e767.bundle.min.js",
+        "https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js",
+        "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+        "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+        "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
+        "https://static.parastorage.com/services/tag-manager-client/1.920.0/siteTags.bundle.min.js"
+      ],
+      "requestedDomains": [
+        "www.gothamgarage.com",
+        "static.wixstatic.com",
+        "frog.wix.com",
+        "panorama.wixapps.net",
+        "",
+        "static.parastorage.com",
+        "siteassets.parastorage.com",
+        "browser.sentry-cdn.com",
+        "video.wixstatic.com"
+      ],
+      "csp": "Not set",
+      "trackerDomains": [],
+      "mixedContent": [],
+      "suspiciousPatterns": [
+        "/Function\\s*\\(/"
+      ],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://www.gothamgarage.com https://static.wixstatic.com https://frog.wix.com https://panorama.wixapps.net https:// https://static.parastorage.com https://siteassets.parastorage.com https://browser.sentry-cdn.com https://video.wixstatic.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "Pepyaka"
+      }
+    },
+    "pyScanner": {
+      "url": "https://www.gothamgarage.com",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+            "reasons": [
+              "Suspicious keyword in URL"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          }
+        ],
+        "forms": [
+          {
+            "form_action": "[empty]",
+            "warning": "Form has no action"
+          }
+        ],
+        "iframes": [],
+        "headers": {
+          "csp": {
+            "status": "missing",
+            "warning": "No Content-Security-Policy header set"
+          }
+        },
+        "mixedContent": []
+      }
+    }
+  },
+  "2030d65d-a03a-4adb-9fd0-8f744f6f02c7": {
+    "success": true,
+    "url": "https://edgecast.io",
+    "summary": {
+      "mixedContent": "Mixed content found",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "Third-party iframes found"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://opps-widget.getwarmly.com/widget-sMcICLlU.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-THEXZY5VW5&cx=c&gtm=45He55s2v9210006660za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-T5C3KVJQ",
+        "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+        "[inline]",
+        "https://www.googletagmanager.com/gtag/js?id=G-THEXZY5VW5",
+        "https://edgecast3283241z.btttag.com/btt.js",
+        "https://r2.leadsy.ai/tag.js",
+        "https://tag.trovo-tag.com/ldc.js?pid=vp67YxIwKEjxZuGV&aid=123103c7",
+        "https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache=dli2yd",
+        "https://challenges.cloudflare.com/turnstile/v0/api.js",
+        "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67e46a5eb1d6da8ae277d2b2",
+        "https://cdn.prod.website-files.com/67e46a5eb1d6da8ae277d2b2/js/webflow.schunk.36b8fb49256177c8.js",
+        "https://cdn.prod.website-files.com/67e46a5eb1d6da8ae277d2b2/js/webflow.a730ca5a.00791bf0a1508adb.js",
+        "https://unpkg.com/@formspark/formson",
+        "https://opps-widget.getwarmly.com/warmly.js?clientId=de43560d59111fff1700de179bb9de81",
+        "https://unpkg.com/@botpoison/browser"
+      ],
+      "requestedDomains": [
+        "edgecast.io",
+        "www.edgecast.io",
+        "cdn.prod.website-files.com",
+        "ajax.googleapis.com",
+        "www.googletagmanager.com",
+        "edgecast3283241z.btttag.com",
+        "r2.leadsy.ai",
+        "d3e54v103j8qbb.cloudfront.net",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "wvbknd.leadsy.ai",
+        "tag.trovo-tag.com",
+        "assets.apollo.io",
+        "opps-widget.getwarmly.com",
+        "www.google-analytics.com",
+        "aplo-evnt.com",
+        "challenges.cloudflare.com",
+        "",
+        "a.remarketstats.com",
+        "a.usbrowserspeed.com",
+        "match.prod.bidr.io",
+        "opps-api.getwarmly.com"
+      ],
+      "csp": "default-src * 'unsafe-eval' 'unsafe-inline' data: blob: ws: wss: filesystem:; frame-ancestors 'self' https://*.tourial.com;",
+      "trackerDomains": [
+        "www.googletagmanager.com",
+        "www.google-analytics.com"
+      ],
+      "mixedContent": [
+        "http://docs.edgecast.io/",
+        "http://docs.edgecast.io/"
+      ],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [
+        "https://tag.trovo-tag.com/vp67YxIwKEjxZuGV?rurl=https%3A%2F%2Fwww.edgecast.io%2F&ref=&v=js-0.1.0&aid=123103c7&rid=91c80365-906f-4bcf-92a9-cb9d498301b6"
+      ],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://edgecast.io https://www.edgecast.io https://cdn.prod.website-files.com https://ajax.googleapis.com https://www.googletagmanager.com https://edgecast3283241z.btttag.com https://r2.leadsy.ai https://d3e54v103j8qbb.cloudfront.net https://unpkg.com https://fonts.googleapis.com https://fonts.gstatic.com https://wvbknd.leadsy.ai https://tag.trovo-tag.com https://assets.apollo.io https://opps-widget.getwarmly.com https://www.google-analytics.com https://aplo-evnt.com https://challenges.cloudflare.com https:// https://a.remarketstats.com https://a.usbrowserspeed.com https://match.prod.bidr.io https://opps-api.getwarmly.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "cloudflare"
+      }
+    },
+    "pyScanner": {
+      "url": "https://edgecast.io",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "https://www.googletagmanager.com/gtag/js?id=G-THEXZY5VW5",
+            "reasons": [
+              "Suspicious keyword in URL"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "https://r2.leadsy.ai/tag.js",
+            "reasons": [
+              "Suspicious keyword in URL"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          }
+        ],
+        "forms": [],
+        "iframes": [
+          {
+            "iframe_src": "https://www.googletagmanager.com/ns.html?id=GTM-T5C3KVJQ",
+            "warning": "Third-party iframe from external domain"
+          }
+        ],
+        "headers": {
+          "csp": {
+            "status": "missing",
+            "warning": "No Content-Security-Policy header set"
+          }
+        },
+        "mixedContent": [
+          "http://docs.edgecast.io/",
+          "http://docs.edgecast.io/"
+        ]
+      }
+    }
+  },
+  "e316107f-d6fe-4754-8eb5-d98aa1f3c377": {
+    "success": true,
+    "url": "https://monster.com",
+    "summary": {
+      "mixedContent": "None detected",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "None"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-1234567890&cx=c&gtm=45He55s2v830464171za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351866~103351868~104481633~104481635~104559073~104559075",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-TTZS5RQ",
+        "https://datadome.monster.com/tags.js",
+        "[inline]",
+        "https://cdn.cookielaw.org/scripttemplates/202502.1.0/otBannerSdk.js",
+        "https://cdn.cookielaw.org/scripttemplates/202502.1.0/otGPP.js",
+        "https://www.monster.com/component---src-pages-index-tsx-837398e8673dea63d39f.js",
+        "https://www.monster.com/1ca26066b15d194aae60d8d8209d1dcb8f537d60-2ffa10713cc96f5c4487.js",
+        "https://www.monster.com/bc81647b95063628c63b527dab51a1cdbc9b62ec-28332be0ad231a3961cc.js",
+        "https://www.monster.com/3c079c09fe87788090c92e0664e5c1dc83d6f823-0fdad4d7d867474f6e83.js",
+        "https://www.monster.com/a041b5ac25bd97ec44341427559266b5c8932399-7a9c13dd5fc4a4ed842b.js",
+        "https://www.monster.com/df3a4cf5-bc04a82cbb1f3b072fb4.js",
+        "https://www.monster.com/ed5e6f1f-e306e9ffb9624ec58540.js",
+        "https://www.monster.com/7d091580-bd57b45ca314c74f23cb.js",
+        "https://www.monster.com/4741219c-41e518daef7e298ebddd.js",
+        "https://www.monster.com/app-a568905585a21f3c604c.js",
+        "https://www.monster.com/framework-00c232fc1b22e9cb77f3.js",
+        "https://www.monster.com/webpack-runtime-9c7b027608494d8ba8c1.js",
+        "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+      ],
+      "requestedDomains": [
+        "monster.com",
+        "www.monster.com",
+        "datadome.monster.com",
+        "www.googletagmanager.com",
+        "appsapi.monster.io",
+        "sr-client-cfg.eu.amplitude.com",
+        "privacy-policy.truste.com",
+        "",
+        "api.lab.eu.amplitude.com",
+        "api.eu.amplitude.com",
+        "cdn.cookielaw.org",
+        "geolocation.onetrust.com",
+        "tagmgr.monster.com"
+      ],
+      "csp": "object-src 'none'; frame-ancestors https://*.trustarc.com https://*.truste.com ; upgrade-insecure-requests; block-all-mixed-content;\nupgrade-insecure-requests\ndefault-src 'self' 'unsafe-eval' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; font-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; style-src 'self' 'unsafe-inline' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; img-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net https://trustarc.com; frame-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; connect-src 'self' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.trustarc.com *.trustarc-svc.net *.truste.com *.truste-svc.net; upgrade-insecure-requests; block-all-mixed-content;",
+      "trackerDomains": [
+        "www.googletagmanager.com"
+      ],
+      "mixedContent": [],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://monster.com https://www.monster.com https://datadome.monster.com https://www.googletagmanager.com https://appsapi.monster.io https://sr-client-cfg.eu.amplitude.com https://privacy-policy.truste.com https:// https://api.lab.eu.amplitude.com https://api.eu.amplitude.com https://cdn.cookielaw.org https://geolocation.onetrust.com https://tagmgr.monster.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "cloudflare"
+      }
+    },
+    "pyScanner": {
+      "url": "https://monster.com",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          }
+        ],
+        "forms": [],
+        "iframes": [],
+        "headers": {
+          "csp": {
+            "status": "missing",
+            "warning": "No Content-Security-Policy header set"
+          }
+        },
+        "mixedContent": []
+      }
+    }
+  },
+  "7318e605-d94d-4407-9efd-bf2cd56cb49b": {
+    "success": true,
+    "url": "https://edgecast.io",
+    "summary": {
+      "mixedContent": "Mixed content found",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "Third-party iframes found"
+    },
+    "jsScanner": {
+      "scripts": [
+        "https://opps-widget.getwarmly.com/widget-sMcICLlU.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-THEXZY5VW5&cx=c&gtm=45He55s2v9210006660za200&tag_exp=101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-T5C3KVJQ",
+        "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+        "[inline]",
+        "https://www.googletagmanager.com/gtag/js?id=G-THEXZY5VW5",
+        "https://edgecast3283241z.btttag.com/btt.js",
+        "https://r2.leadsy.ai/tag.js",
+        "https://tag.trovo-tag.com/ldc.js?pid=vp67YxIwKEjxZuGV&aid=123103c7",
+        "https://challenges.cloudflare.com/turnstile/v0/api.js",
+        "https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache=n66mvi",
+        "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67e46a5eb1d6da8ae277d2b2",
+        "https://cdn.prod.website-files.com/67e46a5eb1d6da8ae277d2b2/js/webflow.schunk.36b8fb49256177c8.js",
+        "https://cdn.prod.website-files.com/67e46a5eb1d6da8ae277d2b2/js/webflow.a730ca5a.00791bf0a1508adb.js",
+        "https://unpkg.com/@formspark/formson",
+        "https://unpkg.com/@botpoison/browser",
+        "https://opps-widget.getwarmly.com/warmly.js?clientId=de43560d59111fff1700de179bb9de81"
+      ],
+      "requestedDomains": [
+        "edgecast.io",
+        "www.edgecast.io",
+        "cdn.prod.website-files.com",
+        "ajax.googleapis.com",
+        "www.googletagmanager.com",
+        "edgecast3283241z.btttag.com",
+        "r2.leadsy.ai",
+        "d3e54v103j8qbb.cloudfront.net",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "wvbknd.leadsy.ai",
+        "tag.trovo-tag.com",
+        "challenges.cloudflare.com",
+        "assets.apollo.io",
+        "opps-widget.getwarmly.com",
+        "www.google-analytics.com",
+        "aplo-evnt.com",
+        "",
+        "a.remarketstats.com",
+        "a.usbrowserspeed.com",
+        "match.prod.bidr.io",
+        "opps-api.getwarmly.com"
+      ],
+      "csp": "default-src * 'unsafe-eval' 'unsafe-inline' data: blob: ws: wss: filesystem:; frame-ancestors 'self' https://*.tourial.com;",
+      "trackerDomains": [
+        "www.googletagmanager.com",
+        "www.google-analytics.com"
+      ],
+      "mixedContent": [
+        "http://docs.edgecast.io/",
+        "http://docs.edgecast.io/"
+      ],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [
+        "https://tag.trovo-tag.com/vp67YxIwKEjxZuGV?rurl=https%3A%2F%2Fwww.edgecast.io%2F&ref=&v=js-0.1.0&aid=123103c7&rid=651902ea-7c13-44c0-a09b-aa8199cf6c32"
+      ],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://edgecast.io https://www.edgecast.io https://cdn.prod.website-files.com https://ajax.googleapis.com https://www.googletagmanager.com https://edgecast3283241z.btttag.com https://r2.leadsy.ai https://d3e54v103j8qbb.cloudfront.net https://unpkg.com https://fonts.googleapis.com https://fonts.gstatic.com https://wvbknd.leadsy.ai https://tag.trovo-tag.com https://challenges.cloudflare.com https://assets.apollo.io https://opps-widget.getwarmly.com https://www.google-analytics.com https://aplo-evnt.com https:// https://a.remarketstats.com https://a.usbrowserspeed.com https://match.prod.bidr.io https://opps-api.getwarmly.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "cloudflare"
+      }
+    },
+    "pyScanner": {
+      "url": "https://edgecast.io",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "https://www.googletagmanager.com/gtag/js?id=G-THEXZY5VW5",
+            "reasons": [
+              "Suspicious keyword in URL"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "https://r2.leadsy.ai/tag.js",
+            "reasons": [
+              "Suspicious keyword in URL"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          }
+        ],
+        "forms": [],
+        "iframes": [
+          {
+            "iframe_src": "https://www.googletagmanager.com/ns.html?id=GTM-T5C3KVJQ",
+            "warning": "Third-party iframe from external domain"
+          }
+        ],
+        "headers": {
+          "csp": {
+            "status": "missing",
+            "warning": "No Content-Security-Policy header set"
+          }
+        },
+        "mixedContent": [
+          "http://docs.edgecast.io/",
+          "http://docs.edgecast.io/"
+        ]
+      }
+    }
+  }
+}
