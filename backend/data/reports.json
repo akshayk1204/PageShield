@@ -2762,5 +2762,73 @@
         ]
       }
     }
+  },
+  "41bf72aa-56c0-43ab-81fb-40519c0a901d": {
+    "success": true,
+    "url": "https://ipl20.com",
+    "summary": {
+      "mixedContent": "None detected",
+      "suspiciousScripts": "None detected",
+      "insecureForms": "None",
+      "thirdPartyIframes": "Third-party iframes found"
+    },
+    "jsScanner": {
+      "scripts": [
+        "[inline]"
+      ],
+      "requestedDomains": [
+        "ipl20.com",
+        "l.cdn-fileserver.com",
+        "find-searcher.com",
+        "s.cdn-fileserver.com",
+        "",
+        "sra-px.cdn-fileserver.com",
+        "rsra-ph.cdn-fileserver.com",
+        "rsras.cdn-fileserver.com"
+      ],
+      "csp": "Not set",
+      "trackerDomains": [],
+      "mixedContent": [],
+      "suspiciousPatterns": [],
+      "insecureForms": [],
+      "thirdPartyIframes": [
+        "https://find-searcher.com/sr/754870121/SAFEFRAME.html?ule=774&%21%2Af=s028%2FRrVbE%28Dc8b0bc~j08RV%21YEbcEcD%2F0j&%21KUV=&%21gM=&%21gfS=&%21gfX=&%21gwB%215~=&%2A%2A=&%2A5g=3UmWjSsIm&%2A85g=1EozX13XI&%2AfK5g=&%2AgM=FXzSu&%2Al~BE=usFInWLI9&%2Al~BS=w7Mj&575g=o&7%2A=&75Yc=XX1j%28I3u&77yg=%7B%2277%2A%2A%22%3A%22%22%2C%2277%2AfG%22%3A%22%22%2C%22775K%22%3A%22%22%2C%22777%2A%22%3A%22%22%7D&7Pg82g=&8cRV8y=lffK7%3A%2F%2F5KySoO%2AwB%2F&B7K%21=o&GKyK=&GP~x%2A%2Axc%28K=&Gg7K8=&K5g=&M5=Xzj3IXEz1SzjIuzXIEX&P%21c=&P5g=&Pc=o&Pg82g=&V7Kc~J=o&Vbg=I&_7lK=o&_y7fK=o&bgK8=o&bgK8%2A~7f=&c%2A85g=&f7%2Ac=Z33o&fK5g=&gc%2ABBB=&htmlsrc=1&kkdd=uh%7CW%7Cu93%2AAHnh&lffK7=X&q_8J=&qg=&w5g=3I3uS1cIhgSI%21hjXPIh%21PcEhS%2ASjou%21X1Xg3&wy%21J=w~c&ySfGKc=wy%21&~Bc88=X&~fM=&eobd=&eoac=RvYbkNvbY&eoch=RvYbkNvbY&ure=1#undefined&acl=&aclp=&cl=&clp=&hvsid=00001748613752467004128225282488&l2type=ola&lp=%7B%22wlstp%22%3A%220%22%7D&matchstring=&pvl=%7B%22nmerr%22%3A%221%22%7D&pvlp=&sbdrId=&verid=&acid=undefined&tchkpts=%7B%22prel2%22%3A1748613752515%7D&stime=1748613752515&l3d=%257B%2522l2host%2522%253A%2522https%253A%252F%252Ffind-searcher.com%252Fsr%252F754870121%252FSAFEFRAME.html%253F0Ifgg%253D4%25260vU%253D%252611%253D%25261TU%253Dr4F_6%25261c0IP%253D6ZroBa2on%25261c0I_%253D7zU%252521%25261ghT%253D%25252APsF4%25252Ab4o%25261hT%253Dby%252528a%252521_Zo%252528%25261vLhT%253D%25265Sf%253D%25265TgwT%253D%25265f%253Ds%25265hT%253D%25267HSM%253D70f%25267hT%253Dbob6_%25252AfoeT_oSe%25252145oeS5fPe_1_%252521s6S4%25252A4Tb%2526850.11.fkL%253D%25268LHL%253D%25268TzLg%253D%2526H_v8Lf%253D7HS%2526IzLS%253Ds%2526LhT%253D%2526S1v%253DZlwg%25252FVCipPkdfgplpf0%252521lgViSDPpfPfd%25252Fl%252521%2526SLyi%253D%2526ST7ISh0%253D%2526STU%253D%2526STv4%253D%2526STv_%253D%2526Tf1III%253D%2526Uh%253D4F%252521bo4PF%25252A_F%252521o6F4oP4%2526YHzvL%253Ds%2526YzcL%253Ds%2526cvvLz%253D4%2526f1ghT%253D%2526gfVigH%253DcvvLz%25253A%25252F%25252FhLH_sA17I%25252F%2526htmlsrc%253D1%2526hzhT%253Ds%2526ipT%253Do%2526izLf0M%253Ds%2526kkdd%253D39%25257C3%25257CA%25252AnH9%2526pTLg%253Ds%2526pTLg10zv%253D%2526vLhT%253D%2526vz1f%253DJbbs%2526z1%253D%2526z5TgwT%253D%2526zhDf%253D44%25252A%252521kob6%2526zzHT%253D%25257B%252522zz11%252522%25253A%252522%252522%25252C%252522zz1v8%252522%25253A%252522%252522%25252C%252522zzhL%252522%25253A%252522%252522%25252C%252522zzz1%252522%25253A%252522%252522%25257D%2526~T%253D%2526~YgM%253D%2522%252C%2522be%2522%253A%25220%2522%252C%2522nmerr%2522%253A%25221%2522%257D"
+      ],
+      "suggestedCSP": "Content-Security-Policy: default-src 'self'; script-src 'self' https://ipl20.com https://l.cdn-fileserver.com https://find-searcher.com https://s.cdn-fileserver.com https:// https://sra-px.cdn-fileserver.com https://rsra-ph.cdn-fileserver.com https://rsras.cdn-fileserver.com 'unsafe-inline';",
+      "dangerousHeaders": {
+        "server": "cloudflare",
+        "x-powered-by": "Express"
+      }
+    },
+    "pyScanner": {
+      "url": "https://ipl20.com",
+      "status": "scanned",
+      "details": {
+        "scripts": [
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "High entropy inline script - potential obfuscation"
+            ]
+          },
+          {
+            "source": "[inline script]",
+            "reasons": [
+              "Usage of document.write() - can lead to injection",
+              "High entropy inline script - potential obfuscation"
+            ]
+          }
+        ],
+        "forms": [],
+        "iframes": [],
+        "headers": {
+          "csp": {
+            "status": "missing",
+            "warning": "No Content-Security-Policy header set"
+          }
+        },
+        "mixedContent": []
+      }
+    }
   }
 }
